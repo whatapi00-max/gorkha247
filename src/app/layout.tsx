@@ -120,7 +120,7 @@ export default function RootLayout({
                   closes: '23:59',
                 },
               },
-              sameAs: ['https://wa.link/gorkha_in'],
+              sameAs: ['https://wa.link/gme782'],
             }),
           }}
         />
