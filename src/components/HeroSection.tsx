@@ -49,40 +49,46 @@ export default function HeroSection() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="text-4xl md:text-6xl lg:text-7xl font-black mb-6 leading-tight"
+          className="text-3xl md:text-5xl lg:text-6xl font-black mb-6 leading-tight"
         >
-          <span className="text-white">नेपालको नम्बर </span>
-          <span className="text-neon neon-text">1</span>
-          <br />
-          <span className="bg-gradient-to-r from-gold via-yellow-300 to-gold bg-clip-text text-transparent">
-            Online Betting & Casino
-          </span>
+          <span className="text-white">आयो गोर्खाली, </span>
+          <span className="text-neon neon-text">१००%</span>
+          <span className="text-white"> विश्वासिलो साइट</span>
         </motion.h1>
 
-        {/* Sub Heading H2 for SEO */}
+        {/* Sub Heading */}
         <motion.h2
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
-          className="text-lg md:text-xl text-gray-300 mb-4 max-w-2xl mx-auto font-semibold"
+          className="text-lg md:text-2xl text-gray-200 mb-4 max-w-3xl mx-auto font-semibold"
         >
-          Nepal Best Betting Site | Instant Deposit & 5-Min Withdrawal | Daily Bonus NPR 10,000+ 🎯
+          यो साइड नेपालको नम्बर वान अनलाइन गेमिङ साइट हो।
         </motion.h2>
 
         <motion.p
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.5 }}
-          className="text-base md:text-lg text-gray-400 mb-8 max-w-xl mx-auto"
+          className="text-base md:text-lg text-gray-300 mb-4 max-w-2xl mx-auto"
         >
-          Aviator Game • Cricket Betting • Live Casino • Slots • Teen Patti • Dragon Tiger • Poker
+          जुन यो नेपाल सरकारबाट मान्यता प्राप्त गेमिङ साइट हो।
+        </motion.p>
+
+        <motion.p
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.6 }}
+          className="text-base md:text-lg text-gold font-bold mb-8 max-w-2xl mx-auto"
+        >
+          एक मिनेटमा डिपोजिट पाँच मिनेटमा तत्काल विथड्रल
         </motion.p>
 
         {/* Stats */}
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.6 }}
+          transition={{ duration: 0.8, delay: 0.7 }}
           className="flex flex-wrap justify-center gap-6 mb-10"
         >
           <div className="flex items-center gap-2 text-sm md:text-base">
@@ -103,7 +109,7 @@ export default function HeroSection() {
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.8 }}
+          transition={{ duration: 0.8, delay: 0.9 }}
           className="flex flex-col sm:flex-row items-center justify-center gap-4"
         >
           <motion.a
