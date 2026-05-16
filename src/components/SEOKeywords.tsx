@@ -28,14 +28,50 @@ export default function SEOKeywords() {
         {/* Online Gaming Nepal */}
         <div className="mb-12">
           <h2 className="text-xl font-bold text-neon mb-4">
-            Online Gaming Nepal - Best Gaming Sites 2025
+            Online Gaming Nepal - Best Gaming & Betting Sites 2026
           </h2>
           <div className="text-sm text-gray-500 leading-relaxed space-y-3">
             <p>
-              Looking for the best online gaming nepal experience? Our gaming site nepal offers everything from casino games to sports betting. As the top nepal gaming platform and best gaming site nepal, we provide 100+ online games nepal that you can play games online nepal anytime. Gaming nepal 2025 is here with our nepal game app - rated among top gaming sites nepal.
+              Looking for the best online gaming nepal experience? Our gaming site nepal offers everything from casino games to sports betting. As the top nepal gaming platform and best gaming site nepal, we provide 100+ online games nepal that you can play games online nepal anytime. Gaming nepal 2026 is here with our nepal game app - rated among top gaming sites nepal.
             </p>
             <p>
-              Our gaming website nepal offers free gaming nepal options alongside nepal real money games. Gaming in nepal has never been more exciting - play and win nepal real cash! Win real money nepal with every game on our nepal online game platform. Earn money gaming nepal easily with our game nepal collection. Mobile gaming nepal and internet gaming nepal are fully supported. We&apos;re proud to be part of the nepal gaming industry, offering premium online entertainment nepal and digital games nepal. Experience the best online games nepal and real money gaming nepal in 2024 with nepal gaming apps that deliver gaming bonus nepal rewards. Play win earn nepal - it&apos;s that simple!
+              Our gaming website nepal offers free gaming nepal options alongside nepal real money games. Gaming in nepal has never been more exciting - play and win nepal real cash! Win real money nepal with every game on our nepal online game platform. Earn money gaming nepal easily with our game nepal collection. Mobile gaming nepal and internet gaming nepal are fully supported. We&apos;re proud to be part of the nepal gaming industry, offering premium online entertainment nepal and digital games nepal. Experience the best online games nepal and real money gaming nepal in 2026 with nepal gaming apps that deliver gaming bonus nepal rewards. Play win earn nepal - it&apos;s that simple!
+            </p>
+          </div>
+        </div>
+
+        {/* High Competition Core Keywords */}
+        <div className="mb-12">
+          <h2 className="text-xl font-bold text-white mb-4">
+            Online Betting Nepal 2026 - Best Betting Site Nepal | GorkhaBooks #1
+          </h2>
+          <div className="text-sm text-gray-500 leading-relaxed space-y-3">
+            <p>
+              <strong className="text-gray-400">Online betting Nepal</strong> starts at GorkhaBooks — the <strong className="text-gray-400">best betting site Nepal</strong> in 2026. Whether you are looking for <strong className="text-gray-400">online casino Nepal</strong>, <strong className="text-gray-400">sports betting Nepal</strong>, or <strong className="text-gray-400">real money games Nepal</strong>, GorkhaBooks delivers all in one platform. Our <strong className="text-gray-400">betting app Nepal</strong> experience is mobile-optimized and works instantly from any smartphone. Thousands of Nepal players choose us for <strong className="text-gray-400">live betting Nepal</strong> every day.
+            </p>
+            <p>
+              Searching for <strong className="text-gray-400">online gambling Nepal</strong>? GorkhaBooks is the most <strong className="text-gray-400">trusted betting site Nepal</strong> with verified payouts and SSL-secured transactions. We are the top <strong className="text-gray-400">Nepal betting platform</strong> for <strong className="text-gray-400">legal betting Nepal</strong> with the <strong className="text-gray-400">best casino site Nepal</strong> experience. Our <strong className="text-gray-400">Nepal online bookmaker</strong> service offers <strong className="text-gray-400">best odds Nepal</strong> across all markets. Choose <strong className="text-gray-400">secure betting Nepal</strong> — choose GorkhaBooks for <strong className="text-gray-400">instant betting Nepal</strong> any time, any sport.
+            </p>
+            <p>
+              GorkhaBooks is the ultimate <strong className="text-gray-400">Nepal gaming platform</strong> for <strong className="text-gray-400">online wagering Nepal</strong>. From <strong className="text-gray-400">online lottery Nepal</strong> to live dealer tables, we cover every category of real money gaming. Our <strong className="text-gray-400">licensed casino Nepal</strong> operations ensure complete transparency. Join Nepal's #1 <strong className="text-gray-400">Nepal betting platform 2026</strong> today.
+            </p>
+          </div>
+        </div>
+
+        {/* High Conversion Money Keywords */}
+        <div className="mb-12">
+          <h2 className="text-xl font-bold text-green-400 mb-4">
+            eSewa Betting Nepal | Khalti Betting Nepal | Fast Withdrawal Casino Nepal
+          </h2>
+          <div className="text-sm text-gray-500 leading-relaxed space-y-3">
+            <p>
+              <strong className="text-gray-400">eSewa betting Nepal</strong> is now easier than ever on GorkhaBooks. Simply deposit via eSewa and start playing instantly. <strong className="text-gray-400">Khalti betting Nepal</strong> is equally seamless — one tap deposit, zero wait time. We also fully support <strong className="text-gray-400">IME Pay betting Nepal</strong> and <strong className="text-gray-400">mobile wallet betting Nepal</strong> for all your transactions.
+            </p>
+            <p>
+              Looking for a <strong className="text-gray-400">fast withdrawal casino Nepal</strong>? GorkhaBooks guarantees <strong className="text-gray-400">instant payout betting Nepal</strong> in under 5 minutes. Our <strong className="text-gray-400">same day withdrawal Nepal</strong> process is the fastest in the market. <strong className="text-gray-400">Withdraw winnings Nepal</strong> directly to eSewa or Khalti — no delays, no excuses. We also support <strong className="text-gray-400">bank transfer betting Nepal</strong> for larger amounts.
+            </p>
+            <p>
+              <strong className="text-gray-400">Minimum deposit betting Nepal</strong> starts from just NPR 100 — no <strong className="text-gray-400">minimum deposit casino Nepal</strong> barrier. <strong className="text-gray-400">No minimum deposit casino Nepal</strong> option available for select games. Claim your <strong className="text-gray-400">deposit bonus Nepal betting</strong> on every first deposit. All <strong className="text-gray-400">betting deposit methods Nepal</strong> are supported — eSewa, Khalti, IME Pay, bank. Bet in <strong className="text-gray-400">Nepal rupees betting</strong> with no currency conversion fees. Our <strong className="text-gray-400">real money casino Nepal</strong> payouts are 100% guaranteed.
             </p>
           </div>
         </div>
@@ -43,14 +79,20 @@ export default function SEOKeywords() {
         {/* Sports Betting Section */}
         <div className="mb-12">
           <h2 className="text-xl font-bold text-gold mb-4">
-            Sports Betting Nepal - Cricket, Football, Kabaddi & More
+            Sports Betting Nepal - Cricket, Football, IPL, Kabaddi & More 2026
           </h2>
           <div className="text-sm text-gray-500 leading-relaxed space-y-3">
             <p>
               <strong className="text-gray-400">Sports betting nepal</strong> is our specialty. Bet online nepal on all major sports. Nepal sports bet covers football betting nepal, cricket betting nepal, IPL betting nepal, kabaddi betting nepal, and live betting nepal. Our sportsbook nepal (also called sports book nepal) offers the best betting odds nepal. Whether you search bet nepal, online bet nepal, or best sportsbook nepal - we deliver the ultimate nepal betting app experience.
             </p>
             <p>
+              <strong className="text-gray-400">IPL betting Nepal 2026</strong> is the biggest seasonal opportunity. GorkhaBooks offers daily updated <strong className="text-gray-400">IPL match prediction Nepal</strong>, live odds, and instant payouts. <strong className="text-gray-400">T20 World Cup betting Nepal</strong>, <strong className="text-gray-400">live cricket betting Nepal</strong>, and <strong className="text-gray-400">cricket odds Nepal</strong> are all available. Also catch <strong className="text-gray-400">Nepal vs India betting</strong>, <strong className="text-gray-400">ICC tournament betting Nepal</strong>, and complete <strong className="text-gray-400">Nepal cricket betting</strong> markets.
+            </p>
+            <p>
               Bet on sports nepal with confidence. Cricket bet nepal and football bet nepal are our most popular markets. We also offer basketball betting nepal, tennis betting nepal, esports betting nepal, and virtual sports nepal. Looking for alternatives to bet365 nepal, 1xbet nepal, or betway nepal? GorkhaBooks is your trusted sportsbetting app nepal for nepal sports wagering.
+            </p>
+            <p>
+              <strong className="text-gray-400">Football betting Nepal</strong> covers <strong className="text-gray-400">EPL betting Nepal</strong>, <strong className="text-gray-400">Champions League betting Nepal</strong>, <strong className="text-gray-400">Premier League Nepal betting</strong>, <strong className="text-gray-400">Nepal football match betting</strong>, and the <strong className="text-gray-400">World Cup 2026 betting Nepal</strong>. Get <strong className="text-gray-400">live football betting Nepal</strong> odds updated in real time. <strong className="text-gray-400">Kabaddi betting Nepal</strong>, <strong className="text-gray-400">volleyball betting Nepal</strong>, <strong className="text-gray-400">basketball betting Nepal</strong>, <strong className="text-gray-400">tennis betting Nepal</strong>, and <strong className="text-gray-400">esports betting Nepal</strong> are all available.
             </p>
             <p>
               Cricket betting nepal covers IPL betting nepal, T20 betting nepal, ODI betting nepal, test match betting nepal, live cricket bet nepal, and cricket match prediction nepal. Join cricket satta nepal, IPL satta nepal, or world cup betting nepal. Football betting nepal includes EPL betting nepal, La Liga betting nepal, UCL betting nepal, Champions League bet nepal, and football live bet nepal. Live betting nepal with in-play bet nepal, live sports bet nepal, and real time bet nepal featuring live odds nepal.
@@ -61,14 +103,20 @@ export default function SEOKeywords() {
         {/* Casino Keywords */}
         <div className="mb-12">
           <h2 className="text-xl font-bold text-purple-400 mb-4">
-            Online Casino Nepal - Slots, Live Casino, Teen Patti & More
+            Online Casino Nepal 2026 - Teen Patti, Andar Bahar, Aviator, Live Casino
           </h2>
           <div className="text-sm text-gray-500 leading-relaxed space-y-3">
             <p>
               Experience the best online casino nepal has to offer. Casino nepal and slot games nepal await you. Our slots nepal collection includes every popular slot machine nepal game. Nepal casino offers live casino nepal with real dealers. Casino online nepal and best casino nepal with casino bonus nepal. Play real money casino nepal with our casino games nepal - from jackpot nepal to roulette nepal, blackjack nepal, baccarat nepal, teen patti nepal, andar bahar nepal, and poker nepal.
             </p>
             <p>
-              Online poker nepal and teen patti online nepal are trending. Our casino app nepal features live dealer nepal games. Easy casino deposit nepal and casino withdrawal nepal. Enjoy free spins nepal and casino welcome bonus nepal. Slot bonus nepal with spin and win nepal. Try demo slots nepal before playing for real money.
+              <strong className="text-gray-400">Teen Patti online Nepal</strong> is the most searched card game in Nepal 2026. Play <strong className="text-gray-400">live Teen Patti Nepal</strong> with real dealers 24/7. <strong className="text-gray-400">Andar Bahar online Nepal</strong> and <strong className="text-gray-400">Dragon Tiger Nepal</strong> offer fast-paced real money action. <strong className="text-gray-400">Online poker Nepal</strong>, <strong className="text-gray-400">Rummy online Nepal</strong>, and <strong className="text-gray-400">Baccarat Nepal</strong> are all available at GorkhaBooks.
+            </p>
+            <p>
+              For table games, try <strong className="text-gray-400">online roulette Nepal</strong>, <strong className="text-gray-400">live blackjack Nepal</strong>, <strong className="text-gray-400">casino roulette Nepal</strong>, and <strong className="text-gray-400">blackjack Nepal online</strong>. Our <strong className="text-gray-400">live dealer Nepal</strong> studio operates around the clock. For crash games, <strong className="text-gray-400">aviator game Nepal</strong> leads the charts — followed by <strong className="text-gray-400">crash game Nepal</strong> and <strong className="text-gray-400">mines game Nepal</strong>.
+            </p>
+            <p>
+              <strong className="text-gray-400">Slot games Nepal</strong> include <strong className="text-gray-400">jackpot slots Nepal</strong>, <strong className="text-gray-400">fish shooting game Nepal</strong>, <strong className="text-gray-400">arcade games Nepal</strong>, and trending <strong className="text-gray-400">online slots Nepal</strong>. Online poker nepal and teen patti online nepal are trending. Our casino app nepal features live dealer nepal games. Easy casino deposit nepal and casino withdrawal nepal. Enjoy free spins nepal and casino welcome bonus nepal. Slot bonus nepal with spin and win nepal. Try demo slots nepal before playing for real money.
             </p>
             <p>
               Teen patti real money nepal, andar bahar real cash nepal, dragon tiger real money nepal, baccarat real money nepal, blackjack real money nepal - all available 24/7. Texas Holdem nepal, Omaha poker nepal, rummy nepal, online rummy nepal, rummy real money nepal, 3 patti nepal, 3 patti gold nepal - complete card game real money nepal experience.
@@ -214,7 +262,25 @@ export default function SEOKeywords() {
               'Nepal Premier League bet', 'Nepal football league bet', 'volleyball betting nepal',
               'badminton betting nepal', 'boxing betting nepal', 'MMA betting nepal', 'UFC betting nepal',
               'bet365 nepal alternative', '1xbet nepal alternative', 'betway nepal alternative',
-              'betwinner nepal', 'melbet nepal', 'mostbet nepal', 'parimatch nepal', '22bet nepal',
+              'betwinner nepal', 'melbet nepal alternative', 'mostbet nepal', 'parimatch nepal alternative', '22bet nepal',
+              'online betting nepal', 'best betting site nepal', 'online casino nepal', 'sports betting nepal',
+              'real money games nepal', 'betting app nepal', 'live betting nepal', 'online gambling nepal',
+              'trusted betting site nepal', 'best casino site nepal', 'legal betting nepal',
+              'esewa betting nepal', 'khalti betting nepal', 'fast withdrawal casino nepal',
+              'instant payout betting nepal', 'real money casino nepal', 'ime pay betting nepal',
+              'deposit bonus nepal betting', 'minimum deposit betting nepal', 'withdraw winnings nepal',
+              'same day withdrawal nepal', 'nepal rupees betting', 'no minimum deposit casino nepal',
+              'ipl betting nepal 2026', 'nepal cricket betting', 't20 world cup betting nepal',
+              'ipl match prediction nepal', 'nepal vs india betting', 'live cricket betting nepal',
+              'cricket odds nepal', 'football betting nepal', 'epl betting nepal',
+              'world cup 2026 betting nepal', 'champions league betting nepal', 'live football betting nepal',
+              'teen patti online nepal', 'andar bahar online nepal', 'dragon tiger nepal',
+              'online roulette nepal', 'live blackjack nepal', 'slot games nepal',
+              'jackpot slots nepal', 'aviator game nepal', 'crash game nepal', 'mines game nepal',
+              'best betting site nepal vs melbet', 'melbet nepal alternative', '1xbet nepal vs gorkhabooks',
+              'parimatch nepal alternative', 'nepal betting site reviews 2026', 'safest betting app nepal 2026',
+              'how to bet online in nepal', 'beginner guide online betting nepal', 'fast withdrawal betting nepal',
+              'online casino with esewa nepal', 'betting sites that accept khalti',
             ].map((keyword) => (
               <a
                 key={keyword}
@@ -229,10 +295,49 @@ export default function SEOKeywords() {
           </div>
         </div>
 
+        {/* Beginner & Guide Keywords */}
+        <div className="mb-12">
+          <h2 className="text-xl font-bold text-sky-400 mb-4">
+            How to Bet Online in Nepal - Beginner Guide 2026
+          </h2>
+          <div className="text-sm text-gray-500 leading-relaxed space-y-3">
+            <p>
+              Wondering <strong className="text-gray-400">how to bet online in Nepal</strong>? GorkhaBooks makes it simple. Follow our <strong className="text-gray-400">beginner guide to online betting Nepal</strong>: register via WhatsApp, deposit NPR 100+ via eSewa or Khalti, pick your game, and place your first bet. Our <strong className="text-gray-400">Nepal sports betting for beginners</strong> guide covers everything from odds reading to bankroll management.
+            </p>
+            <p>
+              Learn about <strong className="text-gray-400">Nepal cricket betting guide</strong> basics — what is a moneyline, what is over/under, how to read live odds. Our <strong className="text-gray-400">Nepal football betting tips</strong> are updated daily. Find the <strong className="text-gray-400">best time to bet on IPL Nepal</strong> with our expert analysis. Discover the <strong className="text-gray-400">best betting strategy Nepal</strong> for long-term profits.
+            </p>
+            <p>
+              New players often ask: <strong className="text-gray-400">how to deposit on betting sites Nepal</strong>, <strong className="text-gray-400">how to verify betting account Nepal</strong>, and <strong className="text-gray-400">online betting age limit Nepal</strong> (18+). We answer all these in our support center. Use our <strong className="text-gray-400">mobile betting Nepal guide</strong> to get started from your phone. Check our <strong className="text-gray-400">Nepal betting sites comparison</strong> to see why GorkhaBooks tops every list. Find out <strong className="text-gray-400">which betting site pays fast Nepal</strong> — the answer is always GorkhaBooks.
+            </p>
+            <p>
+              <strong className="text-gray-400">Live casino Nepal review</strong>: GorkhaBooks offers HD live dealers, real-time chat, and the best table limits in Nepal. Our <strong className="text-gray-400">online casino minimum deposit Nepal</strong> of NPR 100 is the lowest available. Read our <strong className="text-gray-400">Nepal casino games explained</strong> guide to understand every game before you play.
+            </p>
+          </div>
+        </div>
+
+        {/* Competitor Comparison Keywords */}
+        <div className="mb-12">
+          <h2 className="text-xl font-bold text-orange-400 mb-4">
+            Best Betting Site Nepal vs MelBet, 1xBet, Parimatch - GorkhaBooks Wins
+          </h2>
+          <div className="text-sm text-gray-500 leading-relaxed space-y-3">
+            <p>
+              Comparing <strong className="text-gray-400">best betting site Nepal vs MelBet</strong>? GorkhaBooks offers faster withdrawals, better odds, and local eSewa/Khalti support that MelBet Nepal cannot match. Looking for a <strong className="text-gray-400">MelBet Nepal alternative</strong>? GorkhaBooks is the most trusted local option. For <strong className="text-gray-400">1xBet Nepal vs GorkhaBooks</strong> comparison — we win on withdrawal speed, Nepali support, and bonus value every time.
+            </p>
+            <p>
+              Want something <strong className="text-gray-400">better than 1xBet Nepal</strong>? GorkhaBooks processes withdrawals in 5 minutes versus 1xBet's 24-48 hours. Looking for a <strong className="text-gray-400">Parimatch Nepal alternative</strong>? Our platform fully supports eSewa and Khalti — Parimatch does not. In any <strong className="text-gray-400">safest betting platform Nepal comparison</strong>, GorkhaBooks ranks #1 for security, speed, and reliability.
+            </p>
+            <p>
+              Read our <strong className="text-gray-400">Nepal betting site reviews 2026</strong> — GorkhaBooks consistently scores highest for <strong className="text-gray-400">fastest payout vs competitors Nepal</strong>. Our <strong className="text-gray-400">best odds Nepal comparison</strong> shows we beat MelBet Nepal, 1xBet Nepal, and Parimatch Nepal on major cricket and football markets. <strong className="text-gray-400">Trusted site vs MelBet Nepal</strong>: GorkhaBooks is verified by 50,000+ active Nepal players.
+            </p>
+          </div>
+        </div>
+
         {/* Betting App Keywords */}
         <div className="mb-12">
           <h3 className="text-lg font-bold text-white mb-4">
-            Best Betting Apps & Sites Nepal 2025
+            Best Betting Apps & Sites Nepal 2026
           </h3>
           <div className="flex flex-wrap gap-2">
             {[
@@ -240,7 +345,7 @@ export default function SEOKeywords() {
               'android bet app nepal', 'ios betting app nepal', 'betting website nepal', 'best bet site nepal',
               'top betting site nepal', 'new betting site nepal', 'trusted bet site nepal',
               'licensed bet site nepal', 'bet platform nepal', 'nepali betting platform',
-              'local bet app nepal', 'nepal betting platform 2025', 'sportsbook app nepal',
+              'local bet app nepal', 'nepal betting platform 2026', 'sportsbook app nepal',
               'fast bet app nepal', 'free bet nepal', 'no deposit free bet nepal',
               'welcome bet bonus nepal', 'first bet bonus nepal', 'bet boost nepal',
               'odds boost nepal', 'enhanced odds nepal', 'bet promo code nepal',
@@ -271,7 +376,7 @@ export default function SEOKeywords() {
           >
             💬 Join GorkhaBooks Now - WhatsApp
           </a>
-          <p className="text-xs text-gray-600 mt-3">Nepal #1 Trusted Gaming Platform | GorkhaBooks Official | 50,000+ Active Players</p>
+          <p className="text-xs text-gray-600 mt-3">Nepal #1 Trusted Betting Site 2026 | Best Betting Site Nepal | GorkhaBooks Official | 50,000+ Active Players</p>
         </div>
       </div>
     </section>

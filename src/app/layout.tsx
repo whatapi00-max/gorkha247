@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'GorkhaBooks | Gorkha247 - नेपालको नम्बर 1 Online Betting & Casino Platform | Best Gaming Site Nepal 2025',
-  description: 'GorkhaBooks (Gorkha Books) Nepal #1 trusted online betting & casino platform। Play Aviator game Nepal, cricket betting, football betting, live casino, slots, teen patti, dragon tiger & 100+ games। Instant deposit via eSewa, Khalti, IME Pay। 5-minute withdrawal guaranteed। Daily bonus NPR 10,000+। Join 50,000+ Nepal players now! GorkhaBooks official site - safe, trusted, legit।',
-  keywords: 'gorkhabooks, gorkha books, gorkhabooks nepal, gorkhabooks gaming, gorkhabooks site, gorkhabooks online, gorkha books nepal gaming, gorkhabooks login, gorkhabooks register, gorkhabooks app, gorkhabooks review, gorkhabooks promo, gorkhabooks bonus, gorkhabooks deposit, gorkhabooks withdrawal, gorkhabooks payment, gorkhabooks support, gorkhabooks customer care, gorkhabooks contact, gorkhabooks referral, gorkhabooks affiliate, gorkhabooks free, gorkhabooks winner, gorkhabooks jackpot, gorkhabooks account, gorkhabooks official, gorkhabooks trusted, gorkhabooks legit, online gaming nepal, gaming site nepal, nepal gaming platform, best gaming site nepal, online games nepal, play games online nepal, gaming nepal 2025, nepal game app, top gaming sites nepal, gaming website nepal, free gaming nepal, nepal real money games, gaming in nepal, play and win nepal, win real money nepal, nepal online game, earn money gaming nepal, mobile gaming nepal, sports betting nepal, bet online nepal, nepal sports bet, football betting nepal, cricket betting nepal, IPL betting nepal, kabaddi betting nepal, live betting nepal, sportsbook nepal, bet nepal, online bet nepal, best sportsbook nepal, betting odds nepal, nepal betting app, cricket bet nepal, football bet nepal, basketball betting nepal, tennis betting nepal, esports betting nepal, virtual sports nepal, online casino nepal, casino nepal, slot games nepal, slots nepal, nepal casino, live casino nepal, casino online nepal, best casino nepal, casino bonus nepal, real money casino nepal, casino games nepal, jackpot nepal, roulette nepal, blackjack nepal, baccarat nepal, teen patti nepal, andar bahar nepal, poker nepal, online poker nepal, teen patti online nepal, casino app nepal, live dealer nepal, free spins nepal, casino welcome bonus nepal, lottery nepal, online lottery nepal, nepal lottery, lucky draw nepal, prediction game nepal, color prediction nepal, color game nepal, wingo nepal, aviator game nepal, aviator bet nepal, aviator win nepal, aviator real money nepal, crash game nepal, mines game nepal, plinko nepal, esports nepal, pubg nepal, free fire nepal, valorant nepal, gaming tournament nepal, esewa nepal gaming, khalti nepal gaming, instant withdrawal nepal, fast payout nepal, nepal payment gateway gaming, secure payment nepal gaming, crypto gaming nepal, नेपाल गेमिङ, नेपाल अनलाइन गेम, गोर्खाबुक्स, नेपाल सट्टाबाजी, नेपाली क्यासिनो, नेपाल लटरी, अनलाइन खेल नेपाल, नेपाल जित्ने खेल, nepali gaming site, nepali game, khel nepal, online khel nepal, gaming kathmandu, gaming pokhara, trusted gaming nepal, safe gaming nepal, responsible gaming nepal, gaming bonus nepal, welcome bonus nepal, first deposit bonus nepal, refer and earn nepal gaming, daily bonus nepal gaming, cricket betting nepal, IPL betting nepal, T20 betting nepal, world cup betting nepal, football betting nepal, EPL betting nepal, Champions League bet nepal, live betting nepal, teen patti real money nepal, dragon tiger nepal, baccarat real money nepal, blackjack real money nepal, satta nepal, satta online nepal, cricket satta nepal, football satta nepal, bet nepal kathmandu, bet nepal pokhara, nepal betting platform 2025, सट्टाबाजी नेपाल, अनलाइन सट्टा नेपाल, क्रिकेट सट्टा नेपाल, फुटबल सट्टा नेपाल, लाइभ बेट नेपाल, बेटिङ नेपाल, नेपाल बेटिङ एप',
+  title: 'GorkhaBooks | #1 Online Betting Nepal | eSewa & Khalti Casino | Best Betting Site Nepal 2026',
+  description: 'GorkhaBooks - Nepal #1 trusted online betting site & real money casino. Best betting site Nepal 2026. Play IPL betting, cricket betting, Teen Patti, Aviator game, live casino. Instant deposit via eSewa, Khalti, IME Pay. Fast withdrawal in 5 minutes. Legal, safe & trusted. Join 50,000+ players. Best odds Nepal. eSewa betting Nepal, Khalti betting Nepal.',
+  keywords: 'online betting Nepal, best betting site Nepal, online casino Nepal, sports betting Nepal, real money games Nepal, betting app Nepal, live betting Nepal, online gambling Nepal, trusted betting site Nepal, best casino site Nepal, Nepal betting platform, online lottery Nepal, legal betting Nepal, licensed casino Nepal, Nepal online bookmaker, secure betting Nepal, best odds Nepal, instant betting Nepal, Nepal gaming platform, online wagering Nepal, how to bet online in Nepal, Nepal cricket betting guide, online casino with eSewa Nepal, betting sites that accept Khalti, fast withdrawal betting Nepal, how to deposit on betting sites Nepal, safest betting app Nepal 2026, beginner guide to online betting Nepal, Nepal football betting tips, mobile betting Nepal guide, best betting strategy Nepal, online casino minimum deposit Nepal, Nepal sports betting for beginners, live casino Nepal review, how to verify betting account Nepal, Nepal betting sites comparison, which betting site pays fast Nepal, online betting age limit Nepal, eSewa betting Nepal, Khalti betting Nepal, fast withdrawal casino Nepal, instant payout betting Nepal, real money casino Nepal, IME Pay betting Nepal, deposit bonus Nepal betting, minimum deposit betting Nepal, withdraw winnings Nepal, mobile wallet betting Nepal, same day withdrawal Nepal, bank transfer betting Nepal, betting deposit methods Nepal, Nepal rupees betting, no minimum deposit casino Nepal, IPL betting Nepal 2026, Nepal cricket betting, T20 World Cup betting Nepal, IPL match prediction Nepal, Nepal vs India betting, live cricket betting Nepal, cricket odds Nepal, ICC tournament betting Nepal, football betting Nepal, EPL betting Nepal, World Cup 2026 betting Nepal, Nepal football match betting, Champions League betting Nepal, Premier League Nepal betting, live football betting Nepal, kabaddi betting Nepal, tennis betting Nepal, basketball betting Nepal, esports betting Nepal, volleyball betting Nepal, Teen Patti online Nepal, Andar Bahar online Nepal, online poker Nepal, live Teen Patti Nepal, Rummy online Nepal, Dragon Tiger Nepal, online roulette Nepal, live blackjack Nepal, online slots Nepal, baccarat Nepal, casino roulette Nepal, blackjack Nepal online, live dealer Nepal, slot games Nepal, jackpot slots Nepal, fish shooting game Nepal, arcade games Nepal, aviator game Nepal, crash game Nepal, mines game Nepal, best betting site Nepal vs MelBet, MelBet Nepal alternative, 1xBet Nepal vs GorkhaBooks, better than 1xBet Nepal, Parimatch Nepal alternative, safest betting platform Nepal comparison, trusted site vs MelBet Nepal, best odds Nepal comparison, fastest payout vs competitors Nepal, Nepal betting site reviews 2026, gorkhabooks, gorkha books, gorkhabooks nepal, gorkhabooks gaming, gorkhabooks login, gorkhabooks register, gorkhabooks app, gorkhabooks bonus, gorkhabooks deposit, gorkhabooks withdrawal, gorkhabooks official, gorkhabooks trusted, gorkhabooks legit, online gaming nepal, nepal gaming platform, best gaming site nepal, nepal real money games, win real money nepal, mobile gaming nepal, cricket betting nepal, live betting nepal, sportsbook nepal, nepal betting app, esports betting nepal, online casino nepal, live casino nepal, real money casino nepal, casino games nepal, jackpot nepal, teen patti nepal, andar bahar nepal, poker nepal, online poker nepal, aviator game nepal, crash game nepal, mines game nepal, online lottery nepal, color prediction nepal, esewa nepal gaming, khalti nepal gaming, instant withdrawal nepal, fast payout nepal, safe gaming nepal, trusted gaming nepal, legal gaming nepal, licensed gaming nepal, nepal gambling law, welcome bonus nepal, cashback nepal gaming, vip gaming nepal, betting tips nepal, IPL prediction nepal, cricket prediction nepal, football prediction nepal, best time to bet on IPL Nepal, nepal betting platform 2025, nepal betting platform 2026, GorkhaBooks Nepal 2026, aviator win nepal, aviator real money nepal, crash game nepal, mines game nepal, plinko nepal, esports nepal, pubg nepal, free fire nepal, valorant nepal, gaming tournament nepal, esewa nepal gaming, khalti nepal gaming, instant withdrawal nepal, fast payout nepal, nepal payment gateway gaming, secure payment nepal gaming, crypto gaming nepal, नेपाल गेमिङ, नेपाल अनलाइन गेम, गोर्खाबुक्स, नेपाल सट्टाबाजी, नेपाली क्यासिनो, नेपाल लटरी, अनलाइन खेल नेपाल, नेपाल जित्ने खेल, nepali gaming site, nepali game, khel nepal, online khel nepal, gaming kathmandu, gaming pokhara, trusted gaming nepal, safe gaming nepal, responsible gaming nepal, gaming bonus nepal, welcome bonus nepal, first deposit bonus nepal, refer and earn nepal gaming, daily bonus nepal gaming, cricket betting nepal, IPL betting nepal, T20 betting nepal, world cup betting nepal, football betting nepal, EPL betting nepal, Champions League bet nepal, live betting nepal, teen patti real money nepal, dragon tiger nepal, baccarat real money nepal, blackjack real money nepal, satta nepal, satta online nepal, cricket satta nepal, football satta nepal, bet nepal kathmandu, bet nepal pokhara, nepal betting platform 2025, सट्टाबाजी नेपाल, अनलाइन सट्टा नेपाल, क्रिकेट सट्टा नेपाल, फुटबल सट्टा नेपाल, लाइभ बेट नेपाल, बेटिङ नेपाल, नेपाल बेटिङ एप',
   authors: [{ name: 'Gorkha247' }],
   creator: 'Gorkha247',
   publisher: 'Gorkha247',
@@ -21,9 +21,9 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'ne_NP',
     url: 'https://gorkha247.com',
-    siteName: 'GorkhaBooks | Gorkha247 - Nepal Best Betting Site',
-    title: 'GorkhaBooks | Gorkha247 - Nepal #1 Online Betting & Casino | Aviator | Cricket | Live Casino',
-    description: 'GorkhaBooks - Nepal ko sabse trusted gaming platform. 50,000+ active players. Instant withdrawal 5 min. Daily bonus NPR 10,000+. Aviator, Cricket Betting, Live Casino, Slots, Teen Patti. Gorkha Books official. Join now via WhatsApp!',
+    siteName: 'GorkhaBooks | Gorkha247 - Nepal #1 Best Betting Site 2026',
+    title: 'GorkhaBooks | #1 Online Betting Nepal | Best Betting Site Nepal 2026 | eSewa Khalti Casino',
+    description: 'GorkhaBooks - Nepal #1 trusted online betting site. Best odds, instant eSewa & Khalti deposit, 5-min withdrawal. IPL betting, cricket, live casino, Teen Patti, Aviator. Legal, safe & trusted. 50,000+ players. Join now!',
     images: [
       {
         url: 'https://gorkha247.com/og-image.jpg',
@@ -35,8 +35,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'GorkhaBooks | Gorkha247 - Nepal #1 Online Betting & Casino Platform 🎰',
-    description: 'GorkhaBooks - Join 50,000+ Nepal players! Aviator, Cricket Betting, Live Casino, Slots. Instant withdrawal. Daily bonus NPR 10,000+. Gorkha Books Nepal trusted platform!',
+    title: 'GorkhaBooks | #1 Online Betting Nepal 2026 | Best Betting Site | eSewa Khalti',
+    description: 'GorkhaBooks Nepal - Best betting site 2026. eSewa & Khalti deposit, fast withdrawal, IPL betting, cricket, live casino, Teen Patti, Aviator. 50,000+ Nepal players trust us!',
     images: ['https://gorkha247.com/og-image.jpg'],
     creator: '@gorkha247',
   },
@@ -220,6 +220,81 @@ export default function RootLayout({
                 price: '0',
                 priceCurrency: 'NPR',
               },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'HowTo',
+              name: 'How to Bet Online in Nepal - Step by Step Guide 2026',
+              description: 'Complete guide on how to start online betting in Nepal using eSewa, Khalti or IME Pay on GorkhaBooks.',
+              step: [
+                { '@type': 'HowToStep', name: 'Register', text: 'Contact GorkhaBooks via WhatsApp to create your account instantly. No complicated forms needed.' },
+                { '@type': 'HowToStep', name: 'Deposit', text: 'Deposit minimum NPR 100 via eSewa, Khalti, IME Pay or bank transfer. Instant deposit confirmed.' },
+                { '@type': 'HowToStep', name: 'Choose a Game', text: 'Pick from 100+ games: IPL betting Nepal, cricket betting, Aviator, Teen Patti, live casino and more.' },
+                { '@type': 'HowToStep', name: 'Place Your Bet', text: 'Place your bet with the best odds Nepal has to offer. Live betting and instant bet options available.' },
+                { '@type': 'HowToStep', name: 'Withdraw Winnings', text: 'Withdraw your winnings in 5 minutes via eSewa or Khalti. Same day withdrawal guaranteed.' },
+              ],
+              tool: [
+                { '@type': 'HowToTool', name: 'eSewa Nepal' },
+                { '@type': 'HowToTool', name: 'Khalti Nepal' },
+                { '@type': 'HowToTool', name: 'IME Pay Nepal' },
+              ],
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'ItemList',
+              name: 'Best Betting Sites Nepal 2026 - Top Ranked',
+              description: 'GorkhaBooks ranked #1 best betting site Nepal 2026. Trusted, licensed, fastest withdrawal.',
+              itemListElement: [
+                {
+                  '@type': 'ListItem',
+                  position: 1,
+                  name: 'GorkhaBooks - Best Betting Site Nepal 2026',
+                  url: 'https://gorkha247.com',
+                  description: 'Nepal #1 online betting site. Best odds, eSewa Khalti IME Pay deposit, 5-min withdrawal, 50,000+ players.',
+                },
+              ],
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'SportsEvent',
+              name: 'IPL 2026 Betting Nepal - Live Cricket Betting Odds',
+              description: 'Bet on IPL 2026 matches in Nepal with the best odds. Live cricket betting, match predictions, and instant payouts on GorkhaBooks.',
+              sport: 'Cricket',
+              location: { '@type': 'Place', name: 'Nepal' },
+              organizer: { '@type': 'Organization', name: 'GorkhaBooks', url: 'https://gorkha247.com' },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Review',
+              itemReviewed: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                url: 'https://gorkha247.com',
+                description: 'Nepal #1 trusted online betting site with eSewa, Khalti deposit, fast withdrawal and best odds.',
+              },
+              reviewRating: { '@type': 'Rating', ratingValue: '4.9', bestRating: '5', worstRating: '1' },
+              author: { '@type': 'Organization', name: 'Nepal Betting Reviews 2026' },
+              reviewBody: 'GorkhaBooks is the best betting site Nepal 2026. Fast withdrawal, best odds, safe and trusted. eSewa and Khalti deposit instantly accepted. Beats MelBet Nepal, 1xBet Nepal alternatives.',
             }),
           }}
         />

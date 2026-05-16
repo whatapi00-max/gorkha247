@@ -9,7 +9,7 @@ export default function SEOContent() {
         {/* Main SEO Article */}
         <article className="prose prose-invert max-w-none">
           <h2 className="text-2xl md:text-3xl font-black text-white mb-6">
-            GorkhaBooks (Gorkha247) - नेपालको Best Online Betting & Casino Platform 2025
+            GorkhaBooks (Gorkha247) - Nepal&apos;s #1 Online Betting Site & Best Casino Platform 2026
           </h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 text-sm text-gray-400 leading-relaxed">
@@ -103,10 +103,14 @@ export default function SEOContent() {
             </h3>
             <div className="flex flex-wrap gap-2">
               {[
-                'Kathmandu Betting', 'Pokhara Casino Online', 'Biratnagar Gaming', 'Lalitpur Betting Site',
-                'Bharatpur Online Casino', 'Birgunj Betting', 'Butwal Gaming Platform', 'Dharan Betting',
-                'Hetauda Casino', 'Janakpur Gaming', 'Nepalgunj Betting', 'Itahari Casino Online',
-                'Dhangadhi Betting', 'Tulsipur Gaming', 'Siddharthanagar Betting', 'Damak Online Casino',
+                'Online Betting Kathmandu', 'Best Betting Site Kathmandu', 'eSewa Betting Kathmandu',
+                'Online Casino Pokhara', 'Sports Betting Pokhara', 'Khalti Betting Pokhara',
+                'Online Betting Biratnagar', 'Casino Biratnagar', 'Real Money Games Biratnagar',
+                'Online Betting Nepalganj', 'Casino Nepalganj', 'Betting Site Nepalganj',
+                'Lalitpur Betting Site', 'Bharatpur Online Casino', 'Birgunj Betting',
+                'Butwal Gaming Platform', 'Dharan Betting', 'Hetauda Casino',
+                'Janakpur Gaming', 'Itahari Casino Online', 'Dhangadhi Betting',
+                'Tulsipur Gaming', 'Siddharthanagar Betting', 'Damak Online Casino',
                 'Kirtipur Betting Site', 'Ghorahi Gaming', 'Lahan Betting', 'Rajbiraj Online Gaming',
               ].map((city) => (
                 <span key={city} className="text-xs px-3 py-1 bg-white/5 border border-white/10 rounded-full text-gray-500">
@@ -123,12 +127,17 @@ export default function SEOContent() {
             </h3>
             <div className="flex flex-wrap gap-2">
               {[
-                'Aviator Game Nepal', 'Cricket Betting Nepal', 'IPL Bet Nepal', 'Football Betting Nepal',
-                'Live Casino Nepal', 'Online Slots Nepal', 'Teen Patti Nepal', 'Dragon Tiger Nepal',
+                'Aviator Game Nepal', 'Cricket Betting Nepal', 'IPL Betting Nepal 2026', 'Football Betting Nepal',
+                'Live Casino Nepal', 'Online Slots Nepal', 'Teen Patti Online Nepal', 'Dragon Tiger Nepal',
                 'Poker Online Nepal', 'Roulette Nepal', 'Jackpot Games Nepal', 'eSports Betting Nepal',
-                'Lottery Nepal', 'Baccarat Nepal', 'Blackjack Nepal', 'Andar Bahar Nepal',
+                'Lottery Nepal', 'Baccarat Nepal', 'Blackjack Nepal', 'Andar Bahar Online Nepal',
                 'Color Prediction Nepal', 'Mines Game Nepal', 'Plinko Nepal', 'Crash Game Nepal',
-                'Nepal Premier League Betting', 'World Cup Betting Nepal', 'Champions League Bet Nepal',
+                'Nepal Premier League Betting', 'World Cup 2026 Betting Nepal', 'Champions League Betting Nepal',
+                'eSewa Betting Nepal', 'Khalti Betting Nepal', 'IME Pay Betting Nepal',
+                'Fast Withdrawal Casino Nepal', 'Real Money Casino Nepal', 'Live Teen Patti Nepal',
+                'EPL Betting Nepal', 'T20 World Cup Betting Nepal', 'Live Cricket Betting Nepal',
+                'Kabaddi Betting Nepal', 'Volleyball Betting Nepal', 'Fish Shooting Game Nepal',
+                'Best Betting Site Nepal 2026', 'Online Betting Nepal', 'Safest Betting App Nepal',
               ].map((game) => (
                 <a
                   key={game}
@@ -167,17 +176,99 @@ export default function SEOContent() {
             </div>
           </div>
 
+          {/* eSewa Khalti Payment Deep Section */}
+          <div className="mt-12 p-6 rounded-2xl bg-green-950/20 border border-green-800/20">
+            <h3 className="text-xl font-bold text-green-400 mb-4">eSewa Betting Nepal & Khalti Betting Nepal - Fastest Deposits 2026</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-gray-400 leading-relaxed">
+              <div>
+                <h4 className="font-bold text-white mb-2">eSewa Betting Nepal</h4>
+                <p>GorkhaBooks supports <strong>eSewa betting Nepal</strong> with instant deposit confirmation. Open eSewa app, send to our merchant ID, share screenshot on WhatsApp — your balance is credited in under 60 seconds. No minimum beyond NPR 100. <strong>Online casino with eSewa Nepal</strong> is fully live on GorkhaBooks with zero processing fees.</p>
+              </div>
+              <div>
+                <h4 className="font-bold text-white mb-2">Khalti Betting Nepal</h4>
+                <p>For <strong>Khalti betting Nepal</strong>, the process is identical — deposit via Khalti wallet, send proof on WhatsApp, play immediately. <strong>Betting sites that accept Khalti</strong> are rare, but GorkhaBooks is fully integrated. IME Pay betting Nepal is equally supported for all regions of Nepal including Kathmandu, Pokhara, Biratnagar, and Nepalganj.</p>
+              </div>
+            </div>
+          </div>
+
+          {/* Withdrawal Guide Section */}
+          <div className="mt-8 p-6 rounded-2xl bg-blue-950/20 border border-blue-800/20">
+            <h3 className="text-xl font-bold text-blue-400 mb-4">Fast Withdrawal Betting Nepal - Get Your Winnings in 5 Minutes</h3>
+            <div className="text-sm text-gray-400 leading-relaxed space-y-3">
+              <p>GorkhaBooks is Nepal&apos;s <strong>fast withdrawal casino Nepal</strong> leader. When you request a withdrawal, our team processes it in under 5 minutes — 24 hours a day, 7 days a week. <strong>Instant payout betting Nepal</strong> is our core promise. <strong>Same day withdrawal Nepal</strong> is standard, not an exception.</p>
+              <p>To <strong>withdraw winnings Nepal</strong>: message our WhatsApp support with your withdrawal amount and preferred method (eSewa, Khalti, IME Pay, or bank transfer). We process immediately. <strong>Which betting site pays fast Nepal</strong>? GorkhaBooks — every time, no questions asked. <strong>Minimum deposit betting Nepal</strong> NPR 100 | <strong>No minimum deposit casino Nepal</strong> on selected games.</p>
+            </div>
+          </div>
+
+          {/* IPL 2026 Section */}
+          <div className="mt-8 p-6 rounded-2xl bg-yellow-950/20 border border-yellow-800/20">
+            <h3 className="text-xl font-bold text-yellow-400 mb-4">IPL Betting Nepal 2026 - Best Cricket Betting Odds & Match Predictions</h3>
+            <div className="text-sm text-gray-400 leading-relaxed space-y-3">
+              <p><strong>IPL betting Nepal 2026</strong> is the hottest market right now. GorkhaBooks offers live IPL odds, match-by-match <strong>IPL match prediction Nepal</strong>, and instant payouts on every result. Bet on match winner, top batsman, total runs, and dozens of other markets. <strong>Live cricket betting Nepal</strong> lets you bet ball-by-ball in real time.</p>
+              <p>Beyond IPL: <strong>T20 World Cup betting Nepal</strong>, <strong>Nepal vs India betting</strong>, <strong>ICC tournament betting Nepal</strong>, and all domestic cricket. <strong>Cricket odds Nepal</strong> are updated live. Our <strong>Nepal cricket betting guide</strong> is available free — learn how to read odds, spot value, and win consistently. <strong>Best time to bet on IPL Nepal</strong>: 30 minutes before match start when lines are sharpest.</p>
+            </div>
+          </div>
+
+          {/* Competitor Comparison Section */}
+          <div className="mt-8 p-6 rounded-2xl bg-orange-950/20 border border-orange-800/20">
+            <h3 className="text-xl font-bold text-orange-400 mb-4">GorkhaBooks vs MelBet Nepal vs 1xBet Nepal - Who Is Best?</h3>
+            <div className="overflow-x-auto">
+              <table className="w-full text-xs text-gray-400 border-collapse">
+                <thead>
+                  <tr className="border-b border-white/10">
+                    <th className="text-left py-2 pr-4 text-white">Feature</th>
+                    <th className="text-center py-2 px-3 text-green-400">GorkhaBooks ✓</th>
+                    <th className="text-center py-2 px-3 text-gray-500">MelBet Nepal</th>
+                    <th className="text-center py-2 px-3 text-gray-500">1xBet Nepal</th>
+                  </tr>
+                </thead>
+                <tbody className="space-y-1">
+                  {[
+                    ['eSewa / Khalti Deposit', '✓ Instant', '✗ Limited', '✗ No'],
+                    ['Withdrawal Speed', '5 Minutes', '24-48 hrs', '24-48 hrs'],
+                    ['Nepal Rupees (NPR)', '✓ Native', 'USD/EUR only', 'USD/EUR only'],
+                    ['WhatsApp Support', '✓ 24/7', '✗ No', '✗ No'],
+                    ['Min Deposit', 'NPR 100', 'NPR 500+', 'NPR 500+'],
+                    ['Nepali Language Support', '✓ Full', 'Partial', 'Partial'],
+                  ].map(([feat, gb, mb, xb]) => (
+                    <tr key={feat} className="border-b border-white/5">
+                      <td className="py-2 pr-4 text-gray-300">{feat}</td>
+                      <td className="py-2 px-3 text-center text-green-400 font-bold">{gb}</td>
+                      <td className="py-2 px-3 text-center">{mb}</td>
+                      <td className="py-2 px-3 text-center">{xb}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </div>
+
+          {/* Teen Patti & Aviator Deep Section */}
+          <div className="mt-8 p-6 rounded-2xl bg-purple-950/20 border border-purple-800/20">
+            <h3 className="text-xl font-bold text-purple-400 mb-4">Teen Patti Online Nepal & Aviator Game Nepal - Top Games 2026</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-gray-400 leading-relaxed">
+              <div>
+                <h4 className="font-bold text-white mb-2">Teen Patti Online Nepal</h4>
+                <p><strong>Teen Patti online Nepal</strong> is the most searched card game with 3,800+ monthly searches. GorkhaBooks hosts <strong>live Teen Patti Nepal</strong> tables running 24/7 with real dealers. Learn rules, hand rankings, and bluffing strategy — our <strong>Nepal casino games explained</strong> guide covers it all. <strong>Andar Bahar online Nepal</strong> and <strong>Dragon Tiger Nepal</strong> tables are equally popular.</p>
+              </div>
+              <div>
+                <h4 className="font-bold text-white mb-2">Aviator Game Nepal</h4>
+                <p><strong>Aviator game Nepal</strong> is the #1 trending crash game with 1,800+ monthly searches and growing. Bet before the plane flies away — cash out at your chosen multiplier. <strong>Crash game Nepal</strong> variants and <strong>mines game Nepal</strong> are also available. Pro tip: use auto-cashout at 1.5x for consistent small wins, or ride to 10x for big payouts.</p>
+              </div>
+            </div>
+          </div>
+
           {/* Long-tail keyword paragraphs */}
           <div className="mt-12 space-y-4 text-sm text-gray-500 leading-relaxed">
-            <h3 className="text-lg font-bold text-white">Nepal Online Gaming Guide 2024</h3>
+            <h3 className="text-lg font-bold text-white">Nepal Online Gaming & Betting Guide 2026</h3>
             <p>
-              Nepal online gaming industry तीव्र गतिमा बढ्दै छ। 2024 मा Nepal मा online betting site, online casino, र gaming platform हरूको demand अत्यन्त बढेको छ। Gorkha247 यस growing market मा leader को रूपमा स्थापित भएको छ। Nepal betting app alternative को रूपमा हाम्रो mobile-optimized website ले app जस्तै smooth experience दिन्छ।
+              Nepal online gaming industry तीव्र गतिमा बढ्दै छ। 2026 मा Nepal मा online betting site, online casino, र gaming platform हरूको demand अत्यन्त बढेको छ। Gorkha247 यस growing market मा leader को रूपमा स्थापित भएको छ। Nepal betting app alternative को रूपमा हाम्रो mobile-optimized website ले app जस्तै smooth experience दिन्छ।
             </p>
             <p>
               Online casino Nepal मा खेल्दा सधैं trusted platform choose गर्नुहोस्। Gorkha247 ले तपाईंको safety र security लाई प्राथमिकता दिन्छ। Instant withdrawal Nepal, fast payout, fair gaming, र transparent operations ले हामीलाई अरू platforms भन्दा different बनाउँछ। Nepal VIP casino experience को लागि Gorkha247 सबैभन्दा राम्रो platform हो।
             </p>
             <p>
-              Nepal cricket betting season मा especially IPL, World Cup, र Asia Cup को समयमा Gorkha247 मा betting traffic significantly बढ्छ। Best odds Nepal, live score integration, र instant payout ले cricket lovers लाई ultimate betting experience मिल्छ। Football betting Nepal, tennis betting, basketball betting - सबै sports betting Gorkha247 मा available छ।
+              Nepal cricket betting season मा especially IPL 2026, World Cup, र Asia Cup को समयमा Gorkha247 मा betting traffic significantly बढ्छ। Best odds Nepal, live score integration, र instant payout ले cricket lovers लाई ultimate betting experience मिल्छ। Football betting Nepal, tennis betting, basketball betting - सबै sports betting Gorkha247 मा available छ।
             </p>
             <p>
               Nepal real money games खेल्न चाहने हरूको लागि Gorkha247 मा 100% safe environment छ। हाम्रो platform मा कुनै fraud छैन, कुनै cheating छैन। Fair play guarantee र instant support ले तपाईंको gaming experience smooth बनाउँछ। आजै Gorkha247 join गर्नुहोस् र नेपालको best gaming community को हिस्सा बन्नुहोस्!

@@ -40,7 +40,7 @@ export default function HeroSection() {
           className="inline-flex items-center gap-2 bg-dark-100/80 border border-neon/30 rounded-full px-4 py-2 mb-6"
         >
           <span className="w-2 h-2 bg-neon rounded-full animate-pulse"></span>
-          <span className="text-sm text-gray-300">🔥 4,500+ Players Online Now</span>
+          <span className="text-sm text-gray-300">🔥 Nepal&apos;s #1 Betting Site — 50,000+ Active Players</span>
           <Sparkles size={14} className="text-gold" />
         </motion.div>
 
@@ -51,9 +51,12 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-3xl md:text-5xl lg:text-6xl font-black mb-6 leading-tight"
         >
-          <span className="text-white">आयो गोर्खाली, </span>
-          <span className="text-neon neon-text">१००%</span>
-          <span className="text-white"> विश्वासिलो साइट</span>
+          <span className="text-white">नेपालको </span>
+          <span className="text-neon neon-text">#1 Online Betting</span>
+          <span className="text-white"> & Casino Site</span>
+          <br />
+          <span className="text-gold">GorkhaBooks</span>
+          <span className="text-white"> — १००% विश्वासिलो</span>
         </motion.h1>
 
         {/* Sub Heading */}
@@ -63,7 +66,7 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="text-lg md:text-2xl text-gray-200 mb-4 max-w-3xl mx-auto font-semibold"
         >
-          यो साइड नेपालको नम्बर वान अनलाइन गेमिङ साइट हो।
+          Best Betting Site Nepal 2026 | eSewa • Khalti • IME Pay | Instant Withdrawal | Best Odds Nepal
         </motion.h2>
 
         <motion.p
@@ -72,7 +75,7 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 0.5 }}
           className="text-base md:text-lg text-gray-300 mb-4 max-w-2xl mx-auto"
         >
-          जुन यो नेपाल सरकारबाट मान्यता प्राप्त गेमिङ साइट हो।
+          Cricket Betting • IPL 2026 • Live Casino • Teen Patti • Aviator • Football Betting — सबै एकै ठाउँमा
         </motion.p>
 
         <motion.p
@@ -81,7 +84,7 @@ export default function HeroSection() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-base md:text-lg text-gold font-bold mb-8 max-w-2xl mx-auto"
         >
-          एक मिनेटमा डिपोजिट पाँच मिनेटमा तत्काल विथड्रल
+          ⚡ eSewa / Khalti बाट १ मिनेटमा Deposit — ५ मिनेटमा Instant Withdrawal Guaranteed
         </motion.p>
 
         {/* Stats */}
@@ -93,15 +96,15 @@ export default function HeroSection() {
         >
           <div className="flex items-center gap-2 text-sm md:text-base">
             <TrendingUp size={18} className="text-neon" />
-            <span className="text-gray-300">NPR 5 Crore+ Won</span>
+            <span className="text-gray-300">NPR 5 Crore+ Paid Out</span>
           </div>
           <div className="flex items-center gap-2 text-sm md:text-base">
             <Zap size={18} className="text-gold" />
-            <span className="text-gray-300">Instant Withdrawal</span>
+            <span className="text-gray-300">5-Min Fast Withdrawal</span>
           </div>
           <div className="flex items-center gap-2 text-sm md:text-base">
             <Sparkles size={18} className="text-purple-400" />
-            <span className="text-gray-300">24/7 Support</span>
+            <span className="text-gray-300">24/7 WhatsApp Support</span>
           </div>
         </motion.div>
 
@@ -121,7 +124,7 @@ export default function HeroSection() {
             whileTap={{ scale: 0.95 }}
           >
             <MessageCircle size={22} />
-            Join WhatsApp Now
+            Join Now — Free Registration
           </motion.a>
           <motion.a
             href={WHATSAPP_URL}
@@ -132,7 +135,7 @@ export default function HeroSection() {
             whileTap={{ scale: 0.95 }}
           >
             <Gift size={22} />
-            Claim Bonus
+            100% Welcome Bonus Claim
           </motion.a>
           <motion.a
             href={WHATSAPP_URL}
@@ -143,7 +146,7 @@ export default function HeroSection() {
             whileTap={{ scale: 0.95 }}
           >
             <Play size={22} />
-            Start Playing
+            Start Betting Nepal
           </motion.a>
         </motion.div>
 
