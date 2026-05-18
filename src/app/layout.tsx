@@ -280,6 +280,62 @@ export default function RootLayout({
                     text: 'Join GorkhaBooks, deposit, navigate to cricket betting, select IPL, T20, or international matches, place your bet with live odds, and watch the match with instant payouts.',
                   },
                 },
+                {
+                  '@type': 'Question',
+                  name: 'What is the minimum deposit for betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'The minimum deposit on GorkhaBooks is NPR 100. You can deposit via eSewa, Khalti, IME Pay, or bank transfer. Deposit is instant and credited to your account immediately.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Which payment methods work for Nepal betting?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks accepts eSewa, Khalti, IME Pay, bank transfer, and mobile banking. All Nepal payment methods are supported with instant deposit and 5-minute withdrawal.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Is GorkhaBooks legal in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks operates internationally and accepts Nepal players. Our platform is licensed, secure, and fully compliant with international gaming regulations. 50,000+ Nepal players trust us.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to withdraw winnings from Nepal betting?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Request withdrawal via WhatsApp. GorkhaBooks processes withdrawals in 5 minutes to your eSewa, Khalti, IME Pay, or bank account. Same-day withdrawal guaranteed.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What games can I play on GorkhaBooks?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks offers 100+ games including Aviator, Cricket Betting, IPL Betting, Football Betting, Live Casino, Teen Patti, Andar Bahar, Dragon Tiger, Slots, Poker, Roulette, Blackjack, and many more.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to get welcome bonus in Nepal betting?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Register on GorkhaBooks via WhatsApp, make your first deposit of NPR 100 or more, and receive 100% welcome bonus automatically. Contact our support for bonus activation assistance.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Is there cashback on Nepal betting sites?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Yes, GorkhaBooks offers 15% weekly cashback on all losses. We also have 50% reload bonus, VIP rewards, and NPR 500 referral bonus for Nepal players.',
+                  },
+                },
               ],
             }),
           }}
@@ -554,6 +610,144 @@ export default function RootLayout({
               author: {
                 '@type': 'Organization',
                 name: 'Nepal Betting Community',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Person',
+              name: 'GorkhaBooks',
+              alternateName: ['Gorkha247', 'Gorkha Books', 'गोर्खाबुक्स'],
+              jobTitle: 'Online Betting Platform Nepal',
+              description: 'Nepal #1 online betting and casino platform offering IPL betting, cricket betting, live casino, Teen Patti, Aviator with eSewa and Khalti deposit.',
+              url: 'https://gorkha247.com',
+              image: 'https://gorkha247.com/logo.png',
+              sameAs: ['https://wa.link/gme782'],
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Offer',
+              name: 'Nepal Betting Welcome Bonus 2026',
+              description: '100% Welcome Bonus on first deposit at GorkhaBooks Nepal. Best betting site Nepal 2026 offering eSewa, Khalti, IME Pay deposit with fast withdrawal.',
+              url: 'https://gorkha247.com',
+              price: '100',
+              priceCurrency: 'NPR',
+              availability: 'https://schema.org/InStock',
+              validFrom: '2026-01-01',
+              category: 'Online Betting Bonus',
+              offeredBy: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                url: 'https://gorkha247.com',
+              },
+              areaServed: {
+                '@type': 'Country',
+                name: 'Nepal',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Product',
+              name: 'Aviator Game Nepal',
+              description: 'Nepal #1 trending crash game Aviator on GorkhaBooks. Bet before the plane flies away with best odds Nepal. Instant deposit via eSewa, Khalti, IME Pay.',
+              image: 'https://gorkha247.com/aviator.jpg',
+              url: 'https://gorkha247.com',
+              brand: {
+                '@type': 'Brand',
+                name: 'GorkhaBooks',
+              },
+              offers: {
+                '@type': 'Offer',
+                price: '100',
+                priceCurrency: 'NPR',
+                availability: 'https://schema.org/InStock',
+                seller: {
+                  '@type': 'Organization',
+                  name: 'GorkhaBooks',
+                },
+              },
+              aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: '4.8',
+                reviewCount: '8500',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Product',
+              name: 'Teen Patti Online Nepal',
+              description: 'Play live Teen Patti online Nepal on GorkhaBooks. Real dealers, instant payouts, best odds. eSewa and Khalti deposit accepted.',
+              image: 'https://gorkha247.com/teen-patti.jpg',
+              url: 'https://gorkha247.com',
+              brand: {
+                '@type': 'Brand',
+                name: 'GorkhaBooks',
+              },
+              offers: {
+                '@type': 'Offer',
+                price: '100',
+                priceCurrency: 'NPR',
+                availability: 'https://schema.org/InStock',
+                seller: {
+                  '@type': 'Organization',
+                  name: 'GorkhaBooks',
+                },
+              },
+              aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: '4.9',
+                reviewCount: '12000',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Product',
+              name: 'IPL Betting Nepal 2026',
+              description: 'Best IPL betting Nepal 2026 on GorkhaBooks. Live cricket betting, match predictions, instant payouts. Bet on IPL, T20 World Cup with eSewa Khalti deposit.',
+              image: 'https://gorkha247.com/ipl-betting.jpg',
+              url: 'https://gorkha247.com',
+              brand: {
+                '@type': 'Brand',
+                name: 'GorkhaBooks',
+              },
+              offers: {
+                '@type': 'Offer',
+                price: '100',
+                priceCurrency: 'NPR',
+                availability: 'https://schema.org/InStock',
+                seller: {
+                  '@type': 'Organization',
+                  name: 'GorkhaBooks',
+                },
+              },
+              aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: '4.9',
+                reviewCount: '15000',
               },
             }),
           }}
