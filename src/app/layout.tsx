@@ -336,6 +336,78 @@ export default function RootLayout({
                     text: 'Yes, GorkhaBooks offers 15% weekly cashback on all losses. We also have 50% reload bonus, VIP rewards, and NPR 500 referral bonus for Nepal players.',
                   },
                 },
+                {
+                  '@type': 'Question',
+                  name: 'How to bet on football in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Join GorkhaBooks, deposit via eSewa or Khalti, navigate to football betting, select EPL, Champions League, or Nepal Premier League matches, place your bet with live odds, and watch the match with instant payouts.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What is a betting guide for beginners Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'A beginner betting guide Nepal explains how to start betting, understand odds, place bets, deposit/withdraw, and choose the right games. GorkhaBooks offers complete step-by-step guidance for Nepal players.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to understand betting odds Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Betting odds show how much you can win. Decimal odds (e.g., 2.50) mean NPR 100 becomes NPR 250. GorkhaBooks displays clear odds for all games with live updates.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What are the types of bets in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Nepal betting includes match winner, over/under, handicap, accumulator, live betting, and prop bets. GorkhaBooks offers all bet types for cricket, football, IPL, and casino games.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What is live betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Live betting (in-play) lets you bet while the match is happening. GorkhaBooks offers live cricket odds, live football odds, and real-time betting with cash out options.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to get Nepal betting bonus?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Register on GorkhaBooks, make your first deposit, and get 100% welcome bonus automatically. Use promo codes for reload bonus, VIP rewards, and cashback offers.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What is the Nepal betting age limit?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'You must be 18+ to bet on GorkhaBooks. Age verification is required for all new registrations. Responsible gaming is our priority.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Can I bet with cryptocurrency in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks primarily accepts eSewa, Khalti, IME Pay, and bank transfer. Contact our WhatsApp for information on cryptocurrency betting options including Bitcoin and USDT.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Is VPN needed for betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'No, GorkhaBooks is designed for Nepal players and does not require VPN. You can access our platform directly from Nepal with full support for NPR currency and local payment methods.',
+                  },
+                },
               ],
             }),
           }}
