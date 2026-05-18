@@ -1,26 +1,39 @@
+# GorkhaBooks Nepal - Online Betting & Casino Platform
+# Optimized for Nepal SEO 2026
+
 User-agent: *
 Allow: /
 Disallow: /api/
-Disallow: /_next/static/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
 Crawl-delay: 1
 
+# Google - Primary search engine for Nepal
 User-agent: Googlebot
 Allow: /
+Disallow: /api/
+Disallow: /_next/
 Crawl-delay: 0
 
 User-agent: Googlebot-Image
 Allow: /
 
+User-agent: Googlebot-News
+Allow: /
+
+# Bing - Secondary search engine
 User-agent: Bingbot
 Allow: /
+Disallow: /api/
 Crawl-delay: 1
 
-User-agent: Yandex
+User-agent: MSNBot
 Allow: /
+Disallow: /api/
 
-User-agent: Baiduspider
-Allow: /
-
+# Social media crawlers for better sharing
 User-agent: facebookexternalhit
 Allow: /
 
@@ -30,5 +43,32 @@ Allow: /
 User-agent: LinkedInBot
 Allow: /
 
+User-agent: Pinterest
+Allow: /
+
+# Regional search engines important for Nepal
+User-agent: Yandex
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Specialized crawlers
+User-agent: SemrushBot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+# Sitemap location
 Sitemap: https://gorkha247.com/sitemap.xml
+Sitemap: https://gorkha247.com/sitemap_index.xml
+
+# Geographic targeting for Nepal
 Host: https://gorkha247.com

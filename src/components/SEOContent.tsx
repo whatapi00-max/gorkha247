@@ -4,7 +4,7 @@ import { WHATSAPP_URL } from '@/lib/constants'
 
 export default function SEOContent() {
   return (
-    <section className="py-16 px-4 bg-dark-100/50" id="about">
+    <section className="py-16 px-4 bg-dark-100/50" id="seo-content">
       <div className="max-w-6xl mx-auto">
         {/* Main SEO Article */}
         <article className="prose prose-invert max-w-none">

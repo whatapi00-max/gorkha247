@@ -13,7 +13,7 @@ const trustItems = [
 
 export default function TrustSection() {
   return (
-    <section className="py-16 px-4 bg-dark-100/30">
+    <section className="py-16 px-4 bg-dark-100/30" id="about">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <motion.h2

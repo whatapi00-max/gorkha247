@@ -6,7 +6,7 @@ import { WHATSAPP_URL, GAMES } from '@/lib/constants'
 
 export default function GameGrid() {
   return (
-    <section className="py-12 px-4" id="games">
+    <section className="py-16 px-4 bg-dark-100/30" id="games">
       <div className="max-w-6xl mx-auto">
         {/* Section Header */}
         <div className="text-center mb-10">

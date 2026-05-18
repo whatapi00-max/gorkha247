@@ -38,10 +38,19 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-bold text-white mb-4 uppercase tracking-wider">Quick Links</h3>
             <ul className="space-y-2">
-              {['Aviator', 'Cricket Betting', 'Live Casino', 'Slots', 'Teen Patti', 'Poker'].map(link => (
-                <li key={link}>
+              {[
+                { name: 'Aviator Game Nepal', href: '#aviator' },
+                { name: 'Cricket Betting Nepal', href: '#cricket' },
+                { name: 'IPL Betting 2026', href: '#ipl-betting' },
+                { name: 'Live Casino Nepal', href: '#live-casino' },
+                { name: 'Teen Patti Online', href: '#teen-patti' },
+                { name: 'eSewa Betting', href: '#esewa-betting' },
+                { name: 'Khalti Betting', href: '#khalti-betting' },
+                { name: 'Fast Withdrawal', href: '#withdrawal' },
+              ].map(link => (
+                <li key={link.name}>
                   <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" className="text-sm text-gray-400 hover:text-neon transition-colors">
-                    {link}
+                    {link.name}
                   </a>
                 </li>
               ))}
@@ -82,10 +91,10 @@ export default function Footer() {
 
         {/* SEO Content */}
         <div className="border-t border-gray-800 pt-8 mb-8">
-          <h2 className="text-lg font-bold text-white mb-4">Gorkha247 - Nepal Best Online Betting Site & Casino Platform 2024</h2>
+          <h2 className="text-lg font-bold text-white mb-4">Gorkha247 - Nepal #1 Online Betting Site & Casino Platform 2026</h2>
           <div className="text-sm text-gray-500 space-y-3">
             <p>
-              Gorkha247 नेपालको सबैभन्दा trusted online gaming र betting platform हो जसमा 50,000+ active players daily खेल्छन्। हाम्रो platform मा तपाईंले Aviator game Nepal, Cricket Betting, Football Betting, Live Casino, Online Slots, Teen Patti, Dragon Tiger, Poker, Roulette, Jackpot, eSports betting, र Lottery जस्ता 100+ popular games खेल्न सक्नुहुन्छ। Nepal betting site को रूपमा हामी instant deposit (eSewa, Khalti, IME Pay) र 5-minute fast withdrawal को guarantee दिन्छौं।
+              GorkhaBooks (Gorkha247) is Nepal&apos;s most trusted online betting and casino platform. Best betting site Nepal 2026 offering IPL betting, cricket betting, football betting, live casino, Teen Patti, Aviator game, and 100+ other games. Instant deposit via eSewa, Khalti, IME Pay. Fast withdrawal in 5 minutes. Legal, safe & trusted. Join 50,000+ Nepal players.
             </p>
             <p>
               Best betting site Nepal मा खोज्दै हुनुहुन्छ? Gorkha247 ले 100% welcome bonus, 50% reload bonus, 15% weekly cashback, VIP exclusive rewards, र NPR 500 referral bonus जस्ता Nepal मा सबैभन्दा attractive offers प्रदान गर्दछ। Online casino Nepal मा सबैभन्दा secure, fast, र reliable platform को रूपमा Gorkha247 लाई Kathmandu, Pokhara, Biratnagar, Lalitpur, Bharatpur, Birgunj, Butwal, Dharan लगायत Nepal भरिका हजारौं players ले विश्वास गर्छन्।

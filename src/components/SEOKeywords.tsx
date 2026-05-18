@@ -4,7 +4,7 @@ import { WHATSAPP_URL } from '@/lib/constants'
 
 export default function SEOKeywords() {
   return (
-    <section className="py-16 px-4 bg-dark-500/80 border-t border-green-900/10" id="keywords">
+    <section className="py-16 px-4 bg-dark-100/50 border-t border-green-900/10" id="keywords">
       <div className="max-w-6xl mx-auto">
 
         {/* Brand Keywords Section */}

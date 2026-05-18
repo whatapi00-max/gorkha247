@@ -6,7 +6,7 @@ import { WHATSAPP_URL } from '@/lib/constants'
 
 export default function HeroSection() {
   return (
-    <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden pt-20">
+    <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden pt-20" id="home">
       {/* Animated Background */}
       <div className="absolute inset-0 animated-bg"></div>
       

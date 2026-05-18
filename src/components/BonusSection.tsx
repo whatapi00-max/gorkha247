@@ -34,7 +34,7 @@ function CountdownTimer() {
 
 export default function BonusSection() {
   return (
-    <section className="py-16 px-4" id="bonus">
+    <section className="py-16 px-4 bg-gradient-to-b from-dark-100/50 to-dark-100" id="bonus">
       <div className="max-w-6xl mx-auto">
         {/* Section Header */}
         <div className="text-center mb-12">

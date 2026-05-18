@@ -179,6 +179,102 @@ export default function RootLayout({
                     text: 'Gorkha247 offers 100% Welcome Bonus on first deposit, 50% reload bonus, 15% weekly cashback, VIP rewards, and NPR 500 referral bonus for every friend you invite.',
                   },
                 },
+                {
+                  '@type': 'Question',
+                  name: 'Is betting legal in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks operates internationally and accepts Nepal players. Online betting is accessible through our platform with full legal compliance and player protection.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Is online betting allowed in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Many Nepal players use GorkhaBooks for online betting. Our platform is safe, licensed, and offers full support for Nepal users with eSewa/Khalti deposits.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What is the legal age for betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'You must be 18+ to bet on GorkhaBooks. Age verification is required for all new registrations to ensure responsible gaming.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How does betting work in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Register via WhatsApp, deposit via eSewa/Khalti, choose your game or sport, place your bet, and withdraw winnings in 5 minutes. Full guide available on request.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Can Nepalese use international betting sites?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Yes, GorkhaBooks is designed for Nepal players. We accept NPR currency, eSewa, Khalti, IME Pay, and offer 24/7 Nepali support.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to start betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Message our WhatsApp to create your account. Deposit minimum NPR 100 via eSewa or Khalti, then start betting on cricket, football, IPL, live casino, and more.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to register on a betting site in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks registration is instant via WhatsApp. No complicated forms — just message us, provide basic details, and your account is ready in 1 minute.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to deposit money for betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Use eSewa, Khalti, IME Pay, or bank transfer. Send payment to our merchant ID, share screenshot on WhatsApp, and your balance is credited instantly.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to withdraw betting winnings in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Request withdrawal via WhatsApp. We process in 5 minutes to your eSewa, Khalti, IME Pay, or bank account. Same-day withdrawal guaranteed.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Which betting sites are available in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks is the #1 Nepal betting site with 50,000+ players. We offer better odds, faster withdrawals, and local payment support than MelBet, 1xBet, or Parimatch.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Which betting sites accept Nepalese players?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks fully accepts Nepal players with NPR currency, eSewa/Khalti/IME Pay deposits, and 24/7 Nepali language support.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to bet on cricket in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Join GorkhaBooks, deposit, navigate to cricket betting, select IPL, T20, or international matches, place your bet with live odds, and watch the match with instant payouts.',
+                  },
+                },
               ],
             }),
           }}
@@ -295,6 +391,75 @@ export default function RootLayout({
               reviewRating: { '@type': 'Rating', ratingValue: '4.9', bestRating: '5', worstRating: '1' },
               author: { '@type': 'Organization', name: 'Nepal Betting Reviews 2026' },
               reviewBody: 'GorkhaBooks is the best betting site Nepal 2026. Fast withdrawal, best odds, safe and trusted. eSewa and Khalti deposit instantly accepted. Beats MelBet Nepal, 1xBet Nepal alternatives.',
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'SportsBettingOrganization',
+              name: 'GorkhaBooks',
+              alternateName: ['Gorkha247', 'Gorkha Books', 'गोर्खाबुक्स'],
+              url: 'https://gorkha247.com',
+              logo: 'https://gorkha247.com/logo.png',
+              description: 'Nepal #1 sports betting platform offering IPL betting, cricket betting, football betting, T20 World Cup betting, Champions League betting with best odds Nepal.',
+              areaServed: {
+                '@type': 'Country',
+                name: 'Nepal',
+              },
+              offers: {
+                '@type': 'Offer',
+                name: 'Sports Betting in Nepal',
+                description: 'Bet on cricket, football, IPL, T20 World Cup, Champions League, EPL, kabaddi, volleyball, basketball, tennis, esports with eSewa, Khalti, IME Pay deposit and 5-minute withdrawal.',
+                priceCurrency: 'NPR',
+                availability: 'https://schema.org/InStock',
+              },
+              betting: {
+                '@type': 'Betting',
+                sports: ['Cricket', 'Football', 'Kabaddi', 'Volleyball', 'Basketball', 'Tennis', 'eSports'],
+                leagues: ['IPL', 'T20 World Cup', 'Champions League', 'EPL', 'Nepal Premier League'],
+              },
+              contactPoint: {
+                '@type': 'ContactPoint',
+                contactType: 'customer service',
+                availableLanguage: ['English', 'Nepali'],
+                areaServed: 'NP',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'GamblingSite',
+              name: 'GorkhaBooks Casino Nepal',
+              alternateName: ['Gorkha247 Casino', 'Gorkha Books Casino', 'गोर्खाबुक्स क्यासिनो'],
+              url: 'https://gorkha247.com',
+              logo: 'https://gorkha247.com/logo.png',
+              description: 'Nepal #1 online casino offering Teen Patti, Andar Bahar, Dragon Tiger, Aviator, Roulette, Blackjack, Slots, Poker, Baccarat, Jackpot, Mines, Plinko, Fish Shooting games with live dealers.',
+              areaServed: {
+                '@type': 'Country',
+                name: 'Nepal',
+              },
+              offers: {
+                '@type': 'Offer',
+                name: 'Online Casino Nepal',
+                description: 'Play live casino games, Teen Patti, Aviator, slots, and 100+ other games. eSewa, Khalti, IME Pay deposit with 5-minute withdrawal.',
+                priceCurrency: 'NPR',
+                availability: 'https://schema.org/InStock',
+              },
+              games: ['Teen Patti', 'Andar Bahar', 'Dragon Tiger', 'Aviator', 'Roulette', 'Blackjack', 'Slots', 'Poker', 'Baccarat', 'Jackpot', 'Mines', 'Plinko', 'Fish Shooting'],
+              paymentMethods: ['eSewa', 'Khalti', 'IME Pay', 'Bank Transfer'],
+              contactPoint: {
+                '@type': 'ContactPoint',
+                contactType: 'customer service',
+                availableLanguage: ['English', 'Nepali'],
+                areaServed: 'NP',
+              },
             }),
           }}
         />
