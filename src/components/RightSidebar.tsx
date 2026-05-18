@@ -31,7 +31,7 @@ export default function RightSidebar() {
         <div>
           <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider mb-3 flex items-center gap-2">
             <Gift size={14} className="text-gold" />
-            Quick Actions
+            Quick Actions - Nepal Betting
           </h3>
           <div className="space-y-2">
             {sidebarItems.map((item) => (
@@ -57,7 +57,7 @@ export default function RightSidebar() {
         <div className="p-4 rounded-xl bg-gradient-to-br from-dark-100 to-dark-200 border border-green-900/20">
           <h3 className="text-sm font-bold text-neon mb-3 flex items-center gap-2">
             <Trophy size={14} />
-            🏆 Live Winners
+            🏆 Live Winners Nepal 2026
           </h3>
           <div className="space-y-2 min-h-[120px]">
             {WINNERS.slice(currentWinner, currentWinner + 3).map((winner, i) => (
@@ -82,7 +82,7 @@ export default function RightSidebar() {
 
         {/* Recent Big Wins */}
         <div className="p-4 rounded-xl bg-gradient-to-br from-purple-900/30 to-indigo-900/20 border border-purple-500/20">
-          <h3 className="text-sm font-bold text-purple-300 mb-2">💰 Recent Big Wins</h3>
+          <h3 className="text-sm font-bold text-purple-300 mb-2">💰 Recent Big Wins - Nepal Betting 2026</h3>
           <div className="text-center py-3">
             <motion.p
               key={currentWinner}

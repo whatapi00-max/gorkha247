@@ -11,7 +11,7 @@ export default function LiveWinners() {
         <div className="flex items-center gap-3 mb-4">
           <Trophy size={20} className="text-gold" />
           <h2 className="text-lg font-bold text-white">
-            🏆 Live Winners | <span className="text-neon">भर्खरका विजेताहरू</span>
+            🏆 Live Winners Nepal | <span className="text-neon">भर्खरका विजेताहरू</span> | Online Betting Nepal 2026
           </h2>
           <span className="w-2 h-2 bg-red-500 rounded-full animate-pulse"></span>
           <span className="text-xs text-red-400">LIVE</span>

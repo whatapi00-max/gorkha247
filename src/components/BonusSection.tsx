@@ -45,8 +45,17 @@ export default function BonusSection() {
             className="text-3xl md:text-4xl font-black mb-3"
           >
             <span className="text-gold gold-text">🎁 Bonus</span>
-            <span className="text-white"> & Offers</span>
+            <span className="text-white"> Nepal Betting</span>
           </motion.h2>
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.1 }}
+            className="text-gray-400 text-sm"
+          >
+            Best Betting Site Nepal 2026 - 100% Welcome Bonus, 50% Reload, 15% Weekly Cashback, VIP Rewards, NPR 500 Referral | eSewa Khalti IME Pay Deposit
+          </motion.p>
           <p className="text-gray-400">आजको exclusive bonuses claim गर्नुहोस् | Limited Time Only!</p>
         </div>
 

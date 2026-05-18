@@ -54,6 +54,11 @@ export const metadata: Metadata = {
     'target': 'all',
     'audience': 'all',
     'coverage': 'Nepal',
+    'keywords-nepal': 'online betting Nepal, Nepal betting, Nepal gambling, Nepal sportsbook, Nepal cricket betting, IPL betting Nepal, eSewa betting Nepal, Khalti betting Nepal, Nepal casino, Nepal betting sites, Nepal betting apps',
+    'category-nepal': 'Online Betting, Casino, Sports Betting, Gambling, Gaming',
+    'location': 'Kathmandu, Nepal',
+    'business-type': 'Online Gaming & Betting Platform',
+    'service-area': 'Nepal',
   },
 }
 
@@ -291,6 +296,12 @@ export default function RootLayout({
                 { '@type': 'ListItem', position: 3, name: 'Bonus', item: 'https://gorkha247.com/#bonus' },
                 { '@type': 'ListItem', position: 4, name: 'Aviator Nepal', item: 'https://gorkha247.com/#aviator' },
                 { '@type': 'ListItem', position: 5, name: 'Cricket Betting', item: 'https://gorkha247.com/#cricket' },
+                { '@type': 'ListItem', position: 6, name: 'IPL Betting 2026', item: 'https://gorkha247.com/#ipl-betting' },
+                { '@type': 'ListItem', position: 7, name: 'eSewa Betting', item: 'https://gorkha247.com/#esewa-betting' },
+                { '@type': 'ListItem', position: 8, name: 'Khalti Betting', item: 'https://gorkha247.com/#khalti-betting' },
+                { '@type': 'ListItem', position: 9, name: 'Live Casino Nepal', item: 'https://gorkha247.com/#live-casino' },
+                { '@type': 'ListItem', position: 10, name: 'Teen Patti Online', item: 'https://gorkha247.com/#teen-patti' },
+                { '@type': 'ListItem', position: 11, name: 'Fast Withdrawal', item: 'https://gorkha247.com/#withdrawal' },
               ],
             }),
           }}
@@ -459,6 +470,90 @@ export default function RootLayout({
                 contactType: 'customer service',
                 availableLanguage: ['English', 'Nepali'],
                 areaServed: 'NP',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'LocalBusiness',
+              name: 'GorkhaBooks Nepal Online Betting',
+              alternateName: ['Gorkha247', 'Gorkha Books', 'गोर्खाबुक्स'],
+              image: 'https://gorkha247.com/logo.png',
+              url: 'https://gorkha247.com',
+              telephone: '+977XXXXXXXXXX',
+              address: {
+                '@type': 'PostalAddress',
+                addressCountry: 'NP',
+                addressRegion: 'Kathmandu',
+              },
+              geo: {
+                '@type': 'GeoCoordinates',
+                latitude: '27.7172',
+                longitude: '85.3240',
+              },
+              openingHoursSpecification: {
+                '@type': 'OpeningHoursSpecification',
+                dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+                opens: '00:00',
+                closes: '23:59',
+              },
+              priceRange: 'NPR 100+',
+              aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: '4.9',
+                reviewCount: '15000',
+                bestRating: '5',
+                worstRating: '1',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebPage',
+              name: 'GorkhaBooks - Nepal #1 Online Betting Site & Casino Platform 2026',
+              url: 'https://gorkha247.com',
+              description: 'Nepal #1 trusted online betting site & real money casino. Best betting site Nepal 2026. Play IPL betting, cricket betting, Teen Patti, Aviator game, live casino. Instant deposit via eSewa, Khalti, IME Pay. Fast withdrawal in 5 minutes.',
+              keywords: 'online betting Nepal, best betting site Nepal, online casino Nepal, sports betting Nepal, Nepal betting, Nepal gambling, Nepal sportsbook, IPL betting Nepal, cricket betting Nepal, eSewa betting Nepal, Khalti betting Nepal, Teen Patti online Nepal, Aviator game Nepal',
+              inLanguage: 'ne',
+              about: {
+                '@type': 'Thing',
+                name: 'Online Betting in Nepal',
+                description: 'Comprehensive guide to online betting, casino gaming, and sports betting in Nepal with eSewa and Khalti payment methods.',
+              },
+              mainEntity: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                url: 'https://gorkha247.com',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'AggregateRating',
+              itemReviewed: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                image: 'https://gorkha247.com/logo.png',
+              },
+              ratingValue: '4.9',
+              reviewCount: '15000',
+              bestRating: '5',
+              worstRating: '1',
+              author: {
+                '@type': 'Organization',
+                name: 'Nepal Betting Community',
               },
             }),
           }}

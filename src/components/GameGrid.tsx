@@ -17,11 +17,18 @@ export default function GameGrid() {
             className="text-3xl md:text-4xl font-black mb-3"
           >
             <span className="text-white">Nepal Online Casino </span>
-            <span className="text-neon neon-text">Games</span>
-            <span className="text-white"> खेल्नुहोस्</span>
+            <span className="text-neon neon-text">& Sports Betting 2026</span>
           </motion.h2>
-          <h3 className="text-gray-400 text-base">Aviator, Cricket Betting, Live Casino, Slots, Teen Patti - 100+ Games | Nepal Best Odds | Instant Play</h3>
-          <p className="text-gray-500 text-sm mt-2">Choose your favorite game र WhatsApp बाट instantly खेल्न सुरु गर्नुहोस् | eSewa, Khalti बाट deposit गर्नुहोस्</p>
+          <motion.h3
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.1 }}
+            className="text-gray-400 text-base"
+          >
+            Aviator Game Nepal, Cricket Betting Nepal, IPL Betting 2026, Live Casino Nepal, Teen Patti Online Nepal, Andar Bahar, Dragon Tiger, Online Slots Nepal - 100+ Games | Nepal Best Odds | eSewa Khalti Deposit | Instant Play
+          </motion.h3>
+          <motion.p className="text-gray-500 text-sm mt-2">Choose your favorite game र WhatsApp बाट instantly खेल्न सुरु गर्नुहोस् | eSewa, Khalti, IME Pay बाट deposit गर्नुहोस् | Fast Withdrawal Nepal | Best Betting Site Nepal 2026</motion.p>
         </div>
 
         {/* Game Grid */}

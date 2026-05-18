@@ -24,9 +24,17 @@ export default function TrustSection() {
           >
             <span className="text-white">किन </span>
             <span className="text-neon neon-text">Gorkha247</span>
-            <span className="text-white"> रोज्ने?</span>
+            <span className="text-white">? - Nepal #1 Online Betting Site 2026</span>
           </motion.h2>
-          <p className="text-gray-400">Nepal Trusted Betting Site | Secure Gaming | Fast Payout | 50,000+ Active Players | 24/7 Support</p>
+          <motion.p
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ delay: 0.1 }}
+            className="text-gray-400"
+          >
+            Best Betting Site Nepal with eSewa Khalti IME Pay Deposit, Fast Withdrawal in 5 Minutes, 50,000+ Players, Legal Safe Trusted Platform
+          </motion.p>
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">

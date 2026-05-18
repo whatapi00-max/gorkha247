@@ -25,6 +25,7 @@ export default function Header() {
           href="/"
           className="flex items-center gap-2"
           whileHover={{ scale: 1.05 }}
+          aria-label="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026"
         >
           <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-neon to-green-600 flex items-center justify-center font-black text-black text-lg">
             G
@@ -51,6 +52,7 @@ export default function Header() {
             className="flex items-center gap-2 bg-gradient-to-r from-green-600 to-green-500 text-white px-4 py-2 rounded-lg font-semibold text-sm btn-pulse"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
+            aria-label="Join WhatsApp for Nepal Betting Support"
           >
             <MessageCircle size={16} />
             Join WhatsApp
@@ -62,6 +64,7 @@ export default function Header() {
             className="flex items-center gap-2 bg-gradient-to-r from-gold to-yellow-600 text-black px-4 py-2 rounded-lg font-semibold text-sm"
             whileHover={{ scale: 1.05, boxShadow: '0 0 20px rgba(255, 215, 0, 0.5)' }}
             whileTap={{ scale: 0.95 }}
+            aria-label="Get Nepal Betting Bonus"
           >
             <Gift size={16} />
             Get Bonus

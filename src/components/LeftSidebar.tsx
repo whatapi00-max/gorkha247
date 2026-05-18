@@ -9,7 +9,7 @@ export default function LeftSidebar() {
       <div className="p-4">
         <h2 className="text-sm font-bold text-gray-400 uppercase tracking-wider mb-4 flex items-center gap-2">
           <span className="w-2 h-2 bg-neon rounded-full animate-pulse"></span>
-          Games Menu
+          Games Menu - Nepal Betting 2026
         </h2>
         <nav className="space-y-1">
           {GAMES.map((game, index) => (
