@@ -408,6 +408,78 @@ export default function RootLayout({
                     text: 'No, GorkhaBooks is designed for Nepal players and does not require VPN. You can access our platform directly from Nepal with full support for NPR currency and local payment methods.',
                   },
                 },
+                {
+                  '@type': 'Question',
+                  name: 'What is the best betting strategy for Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'The best betting strategy for Nepal includes starting small, understanding odds, using bankroll management, betting on sports you know, taking advantage of bonuses, and following expert tips. GorkhaBooks offers betting guides and tips for Nepal players.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to do accumulator betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Accumulator betting combines multiple bets into one. On GorkhaBooks, select multiple matches or games, add them to your bet slip, and place the combined bet. Higher risk but higher potential returns.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What is handicap betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Handicap betting levels the playing field by giving one team a virtual advantage. GorkhaBooks offers handicap betting for football and cricket matches to provide better odds and more betting options.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to use cash out betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Cash out lets you settle your bet early. On GorkhaBooks, use the cash out button during live matches to secure winnings or minimize losses before the event ends. Available for selected live betting markets.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What is over/under betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Over/under betting lets you wager on whether the total score will be above or below a set number. GorkhaBooks offers over/under for cricket, football, and other sports with competitive odds.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to get free bets in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks offers free bets through welcome bonuses, referral rewards, and promotional offers. Contact our WhatsApp to learn about current free bet offers and promo codes for Nepal players.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'What is value betting in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Value betting means finding odds that are higher than the actual probability. GorkhaBooks provides competitive odds and betting tips to help Nepal players identify value betting opportunities.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'How to compare betting sites in Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'Compare betting sites by checking odds, bonuses, payment methods, withdrawal speed, customer support, and reputation. GorkhaBooks offers best odds, instant eSewa/Khalti deposit, 5-minute withdrawal, and 24/7 WhatsApp support.',
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: 'Which betting site has best odds for Nepal?',
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: 'GorkhaBooks offers some of the best odds in Nepal for cricket, football, IPL, and casino games. We provide competitive odds, live betting options, and instant payouts for Nepal players.',
+                  },
+                },
               ],
             }),
           }}
@@ -821,6 +893,66 @@ export default function RootLayout({
                 ratingValue: '4.9',
                 reviewCount: '15000',
               },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'VideoObject',
+              name: 'GorkhaBooks Nepal Betting Tutorial - How to Bet Online in Nepal 2026',
+              description: 'Complete guide on how to start online betting in Nepal using eSewa, Khalti or IME Pay on GorkhaBooks. Learn about IPL betting, cricket betting, live casino, Teen Patti, Aviator game with instant deposit and fast withdrawal.',
+              thumbnailUrl: 'https://gorkha247.com/video-thumbnail.jpg',
+              uploadDate: '2026-01-01',
+              contentUrl: 'https://gorkha247.com/betting-tutorial-video',
+              duration: 'PT10M30S',
+              interactionStatistic: {
+                '@type': 'InteractionCounter',
+                interactionType: { '@type': 'WatchAction' },
+                userInteractionCount: '15000',
+              },
+              author: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                url: 'https://gorkha247.com',
+              },
+              publisher: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                logo: 'https://gorkha247.com/logo.png',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'NewsArticle',
+              headline: 'GorkhaBooks Nepal #1 Online Betting Site 2026 - Best Odds, Fast Withdrawal, eSewa Khalti Deposit',
+              description: 'GorkhaBooks is Nepal #1 trusted online betting site offering IPL betting, cricket betting, football betting, live casino, Teen Patti, Aviator game with instant deposit via eSewa, Khalti, IME Pay and 5-minute withdrawal.',
+              image: 'https://gorkha247.com/og-image.jpg',
+              datePublished: '2026-01-01',
+              dateModified: '2026-05-18',
+              author: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                url: 'https://gorkha247.com',
+              },
+              publisher: {
+                '@type': 'Organization',
+                name: 'GorkhaBooks',
+                logo: 'https://gorkha247.com/logo.png',
+              },
+              mainEntityOfPage: {
+                '@type': 'WebPage',
+                '@id': 'https://gorkha247.com',
+              },
+              articleSection: 'Online Betting Nepal',
+              keywords: 'online betting Nepal, best betting site Nepal, IPL betting Nepal, cricket betting Nepal, eSewa betting Nepal, Khalti betting Nepal, Nepal betting, Nepal gambling',
             }),
           }}
         />

@@ -58,7 +58,7 @@ export default function SEOContent() {
           {/* Keyword-rich FAQ Section */}
           <div className="mt-12 space-y-6">
             <h2 className="text-2xl font-black text-white">
-              FAQ - Gorkha247 बारेमा प्रश्नहरू
+              FAQ - Gorkha247 बारेमा प्रश्नहरू | Nepal Betting Guide 2026
             </h2>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -99,7 +99,7 @@ export default function SEOContent() {
           {/* City-based SEO Keywords */}
           <div className="mt-12">
             <h3 className="text-xl font-bold text-white mb-4">
-              Nepal भरि बाट खेल्नुहोस् - All Cities Supported
+              Nepal भरि बाट खेल्नुहोस् - All Cities Supported | Online Betting Nepal 2026
             </h3>
             <div className="flex flex-wrap gap-2">
               {[
@@ -123,7 +123,7 @@ export default function SEOContent() {
           {/* Game Keywords Section */}
           <div className="mt-8">
             <h3 className="text-xl font-bold text-white mb-4">
-              Popular Games on Gorkha247
+              Popular Games on Gorkha247 | Nepal Online Casino 2026
             </h3>
             <div className="flex flex-wrap gap-2">
               {[
@@ -180,7 +180,7 @@ export default function SEOContent() {
           {/* Payment Methods SEO */}
           <div className="mt-8">
             <h3 className="text-xl font-bold text-white mb-4">
-              Deposit & Withdrawal Methods - Nepal Payment Support
+              Deposit & Withdrawal Methods - Nepal Payment Support | eSewa Khalti IME Pay 2026
             </h3>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
               {[
@@ -311,7 +311,7 @@ export default function SEOContent() {
 
           {/* Long-tail keyword paragraphs */}
           <div className="mt-12 space-y-4 text-sm text-gray-500 leading-relaxed">
-            <h3 className="text-lg font-bold text-white">Nepal Online Gaming & Betting Guide 2026</h3>
+            <h3 className="text-lg font-bold text-white">Nepal Online Gaming & Betting Guide 2026 | Complete Betting Tutorial Nepal</h3>
             <p>
               Nepal online gaming industry तीव्र गतिमा बढ्दै छ। 2026 मा Nepal मा online betting site, online casino, र gaming platform हरूको demand अत्यन्त बढेको छ। Gorkha247 यस growing market मा leader को रूपमा स्थापित भएको छ। Nepal betting app alternative को रूपमा हाम्रो mobile-optimized website ले app जस्तै smooth experience दिन्छ।
             </p>
