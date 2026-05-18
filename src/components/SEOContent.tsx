@@ -138,6 +138,24 @@ export default function SEOContent() {
                 'EPL Betting Nepal', 'T20 World Cup Betting Nepal', 'Live Cricket Betting Nepal',
                 'Kabaddi Betting Nepal', 'Volleyball Betting Nepal', 'Fish Shooting Game Nepal',
                 'Best Betting Site Nepal 2026', 'Online Betting Nepal', 'Safest Betting App Nepal',
+                'Nepal Betting', 'Nepal Gambling', 'Nepal Sportsbook', 'Nepal Odds', 'Nepal Casino',
+                'Nepal Cricket Bet', 'Nepal Football Bet', 'Nepal Wager', 'Nepal Lottery', 'Nepal Bookmaker',
+                'Nepal Betting Sites', 'Nepal Betting Apps', 'Nepal Online Betting', 'Nepal Betting Platform',
+                'Nepal Betting Tips', 'Nepal Betting Guide', 'Nepal Betting Options', 'Nepal Betting Market',
+                'Nepal Betting Login', 'Nepal Betting Signup', 'Best Betting Sites in Nepal',
+                'Best Online Betting Sites Nepal', 'Top Betting Sites Nepal', 'Trusted Betting Sites in Nepal',
+                'Licensed Betting Sites Nepal', 'Safe Betting Sites Nepal', 'Legal Betting Platforms Nepal',
+                'New Betting Sites Nepal', 'Betting Sites That Accept Nepal Users', 'Betting Sites with NPR Currency',
+                'Betting Apps Nepal Android', 'Betting Apps Nepal iOS', 'Nepal Betting Site Registration',
+                'Nepal Betting Site Bonus', 'Betting Site Welcome Offer Nepal', 'Online Betting in Nepal',
+                'Online Sports Betting Nepal', 'Online Betting Nepal Legal', 'Online Betting Nepal for Beginners',
+                'Online Gambling Nepal Real Money', 'Online Betting Nepal Mobile', 'Internet Betting Nepal',
+                'Real Money Betting Nepal', 'Online Betting Nepal Payment Methods', 'Deposit Methods Nepal Betting',
+                'Nepal Betting with eSewa', 'Nepal Betting with Khalti', 'Nepal Betting Bank Transfer',
+                'Cricket Betting in Nepal', 'Nepal Cricket Match Betting', 'T20 Cricket Betting Nepal',
+                'Nepal National Cricket Team Bet', 'Nepal Football Betting Sites', 'Premier League Betting Nepal',
+                'Soccer Betting Nepal', 'Football Odds Nepal', 'Horse Racing Betting Nepal',
+                'Virtual Sports Betting Nepal',
               ].map((game) => (
                 <a
                   key={game}
@@ -255,6 +273,32 @@ export default function SEOContent() {
                 <h4 className="font-bold text-white mb-2">Aviator Game Nepal</h4>
                 <p><strong>Aviator game Nepal</strong> is the #1 trending crash game with 1,800+ monthly searches and growing. Bet before the plane flies away — cash out at your chosen multiplier. <strong>Crash game Nepal</strong> variants and <strong>mines game Nepal</strong> are also available. Pro tip: use auto-cashout at 1.5x for consistent small wins, or ride to 10x for big payouts.</p>
               </div>
+            </div>
+          </div>
+
+          {/* Legal & Beginner FAQ Section */}
+          <div className="mt-12 p-6 rounded-2xl bg-emerald-950/20 border border-emerald-800/20">
+            <h3 className="text-xl font-bold text-emerald-400 mb-4">Legal & Beginner Betting Questions Nepal 2026</h3>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-gray-400 leading-relaxed">
+              {[
+                { q: 'Is betting legal in Nepal?', a: 'GorkhaBooks operates internationally and accepts Nepal players. Online betting is accessible through our platform with full legal compliance and player protection.' },
+                { q: 'Is online betting allowed in Nepal?', a: 'Many Nepal players use GorkhaBooks for online betting. Our platform is safe, licensed, and offers full support for Nepal users with eSewa/Khalti deposits.' },
+                { q: 'What is the legal age for betting in Nepal?', a: 'You must be 18+ to bet on GorkhaBooks. Age verification is required for all new registrations to ensure responsible gaming.' },
+                { q: 'How does betting work in Nepal?', a: 'Register via WhatsApp, deposit via eSewa/Khalti, choose your game or sport, place your bet, and withdraw winnings in 5 minutes. Full guide available on request.' },
+                { q: 'Can Nepalese use international betting sites?', a: 'Yes, GorkhaBooks is designed for Nepal players. We accept NPR currency, eSewa, Khalti, IME Pay, and offer 24/7 Nepali support.' },
+                { q: 'How to start betting in Nepal?', a: 'Message our WhatsApp to create your account. Deposit minimum NPR 100 via eSewa or Khalti, then start betting on cricket, football, IPL, live casino, and more.' },
+                { q: 'How to register on a betting site in Nepal?', a: 'GorkhaBooks registration is instant via WhatsApp. No complicated forms — just message us, provide basic details, and your account is ready in 1 minute.' },
+                { q: 'How to deposit money for betting in Nepal?', a: 'Use eSewa, Khalti, IME Pay, or bank transfer. Send payment to our merchant ID, share screenshot on WhatsApp, and your balance is credited instantly.' },
+                { q: 'How to withdraw betting winnings in Nepal?', a: 'Request withdrawal via WhatsApp. We process in 5 minutes to your eSewa, Khalti, IME Pay, or bank account. Same-day withdrawal guaranteed.' },
+                { q: 'Which betting sites are available in Nepal?', a: 'GorkhaBooks is the #1 Nepal betting site with 50,000+ players. We offer better odds, faster withdrawals, and local payment support than MelBet, 1xBet, or Parimatch.' },
+                { q: 'Which betting sites accept Nepalese players?', a: 'GorkhaBooks fully accepts Nepal players with NPR currency, eSewa/Khalti/IME Pay deposits, and 24/7 Nepali language support.' },
+                { q: 'How to bet on cricket in Nepal?', a: 'Join GorkhaBooks, deposit, navigate to cricket betting, select IPL, T20, or international matches, place your bet with live odds, and watch the match with instant payouts.' },
+              ].map((faq, i) => (
+                <div key={i} className="p-4 rounded-xl bg-white/5 border border-white/10">
+                  <h4 className="text-sm font-bold text-white mb-2">{faq.q}</h4>
+                  <p className="text-xs text-gray-500">{faq.a}</p>
+                </div>
+              ))}
             </div>
           </div>
 
