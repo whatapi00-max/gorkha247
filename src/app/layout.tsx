@@ -78,6 +78,12 @@ export default function RootLayout({
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="format-detection" content="telephone=no" />
         <link rel="canonical" href="https://gorkha247.com" />
+        <link rel="icon" type="image/png" href="/logo.png" />
+        <link rel="shortcut icon" type="image/png" href="/logo.png" />
+        <link rel="apple-touch-icon" href="/logo.png" />
+        <link rel="apple-touch-icon-precomposed" href="/logo.png" />
+        <meta name="msapplication-TileImage" content="/logo.png" />
+        <meta name="msapplication-TileColor" content="#00ff88" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
