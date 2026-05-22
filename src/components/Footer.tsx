@@ -15,7 +15,7 @@ export default function Footer() {
               <img 
                 src="/logo.png" 
                 alt="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026" 
-                className="w-10 h-10 rounded-lg object-contain"
+                className="w-12 h-12 rounded-lg object-contain bg-dark-100/50 p-1"
               />
               <span className="text-xl font-bold">
                 <span className="text-neon">Gorkha</span>

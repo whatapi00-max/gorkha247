@@ -30,7 +30,7 @@ export default function Header() {
           <img 
             src="/logo.png" 
             alt="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026" 
-            className="w-10 h-10 rounded-lg object-contain"
+            className="w-14 h-14 rounded-lg object-contain bg-dark-100/50 p-1"
           />
           <span className="text-xl font-bold hidden sm:block">
             <span className="text-neon neon-text">Gorkha</span>
