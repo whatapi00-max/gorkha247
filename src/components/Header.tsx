@@ -27,9 +27,11 @@ export default function Header() {
           whileHover={{ scale: 1.05 }}
           aria-label="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026"
         >
-          <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-neon to-green-600 flex items-center justify-center font-black text-black text-lg">
-            G
-          </div>
+          <img 
+            src="/logo.png" 
+            alt="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026" 
+            className="w-10 h-10 rounded-lg object-contain"
+          />
           <span className="text-xl font-bold hidden sm:block">
             <span className="text-neon neon-text">Gorkha</span>
             <span className="text-gold">247</span>
