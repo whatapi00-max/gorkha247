@@ -12,15 +12,13 @@ export default function Footer() {
           {/* Brand */}
           <div className="md:col-span-1">
             <div className="flex items-center gap-2 mb-4">
-              <img 
-                src="/logo.png" 
-                alt="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026" 
-                className="w-12 h-12 rounded-lg object-contain bg-dark-100/50 p-1"
-              />
-              <span className="text-xl font-bold">
-                <span className="text-neon">Gorkha</span>
-                <span className="text-gold">247</span>
-              </span>
+              <div className="h-10 w-auto rounded-lg overflow-hidden">
+                <img
+                  src="/logo.png"
+                  alt="GorkhaBooks - Nepal #1 Online Betting Site"
+                  className="h-full w-auto object-contain"
+                />
+              </div>
             </div>
             <p className="text-sm text-gray-400 mb-4">
               नेपालको सबैभन्दा भरपर्दो online gaming platform। Instant deposit, fast withdrawal, र daily bonus सहित।

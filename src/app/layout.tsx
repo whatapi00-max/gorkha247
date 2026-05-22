@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     description: 'GorkhaBooks - Nepal #1 trusted online betting site. Best odds, instant eSewa & Khalti deposit, 5-min withdrawal. IPL betting, cricket, live casino, Teen Patti, Aviator. Legal, safe & trusted. 50,000+ players. Join now!',
     images: [
       {
-        url: 'https://gorkha247.com/og-image.jpg',
+        url: 'https://gorkha247.com/logo.png',
         width: 1200,
         height: 630,
         alt: 'Gorkha247 - Nepal Number 1 Online Betting and Casino Gaming Platform',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'GorkhaBooks | #1 Online Betting Nepal 2026 | Best Betting Site | eSewa Khalti',
     description: 'GorkhaBooks Nepal - Best betting site 2026. eSewa & Khalti deposit, fast withdrawal, IPL betting, cricket, live casino, Teen Patti, Aviator. 50,000+ Nepal players trust us!',
-    images: ['https://gorkha247.com/og-image.jpg'],
+    images: ['https://gorkha247.com/logo.png'],
     creator: '@gorkha247',
   },
   other: {
@@ -934,7 +934,7 @@ export default function RootLayout({
               '@type': 'NewsArticle',
               headline: 'GorkhaBooks Nepal #1 Online Betting Site 2026 - Best Odds, Fast Withdrawal, eSewa Khalti Deposit',
               description: 'GorkhaBooks is Nepal #1 trusted online betting site offering IPL betting, cricket betting, football betting, live casino, Teen Patti, Aviator game with instant deposit via eSewa, Khalti, IME Pay and 5-minute withdrawal.',
-              image: 'https://gorkha247.com/og-image.jpg',
+              image: 'https://gorkha247.com/logo.png',
               datePublished: '2026-01-01',
               dateModified: '2026-05-18',
               author: {

@@ -32,11 +32,25 @@ export default function HeroSection() {
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-neon/10 rounded-full blur-3xl"></div>
 
       <div className="relative z-10 max-w-6xl mx-auto px-4 text-center">
+        {/* Logo */}
+        <motion.div
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.6 }}
+          className="mb-6"
+        >
+          <img
+            src="/logo.png"
+            alt="GorkhaBooks Logo - Nepal #1 Online Betting Site"
+            className="h-16 w-auto mx-auto drop-shadow-[0_0_15px_rgba(0,255,136,0.3)]"
+          />
+        </motion.div>
+
         {/* Badge */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6 }}
+          transition={{ duration: 0.6, delay: 0.1 }}
           className="inline-flex items-center gap-2 bg-dark-100/80 border border-neon/30 rounded-full px-4 py-2 mb-6"
         >
           <span className="w-2 h-2 bg-neon rounded-full animate-pulse"></span>

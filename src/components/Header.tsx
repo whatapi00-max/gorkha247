@@ -23,19 +23,17 @@ export default function Header() {
         {/* Logo */}
         <motion.a
           href="/"
-          className="flex items-center gap-2"
-          whileHover={{ scale: 1.05 }}
+          className="flex items-center"
+          whileHover={{ scale: 1.02 }}
           aria-label="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026"
         >
-          <img 
-            src="/logo.png" 
-            alt="GorkhaBooks - Nepal #1 Online Betting Site & Casino 2026" 
-            className="w-14 h-14 rounded-lg object-contain bg-dark-100/50 p-1"
-          />
-          <span className="text-xl font-bold hidden sm:block">
-            <span className="text-neon neon-text">Gorkha</span>
-            <span className="text-gold">247</span>
-          </span>
+          <div className="h-10 w-auto rounded-lg overflow-hidden">
+            <img
+              src="/logo.png"
+              alt="GorkhaBooks - Nepal #1 Online Betting Site"
+              className="h-full w-auto object-contain"
+            />
+          </div>
         </motion.a>
 
         {/* Live Users Counter */}
