@@ -39,17 +39,17 @@ export default function Footer() {
             <h3 className="text-sm font-bold text-white mb-4 uppercase tracking-wider">Quick Links</h3>
             <ul className="space-y-2">
               {[
-                { name: 'Aviator Game Nepal', href: '#aviator' },
-                { name: 'Cricket Betting Nepal', href: '#cricket' },
-                { name: 'IPL Betting 2026', href: '#ipl-betting' },
-                { name: 'Live Casino Nepal', href: '#live-casino' },
-                { name: 'Teen Patti Online', href: '#teen-patti' },
-                { name: 'eSewa Betting', href: '#esewa-betting' },
-                { name: 'Khalti Betting', href: '#khalti-betting' },
-                { name: 'Fast Withdrawal', href: '#withdrawal' },
+                { name: 'Aviator Game Nepal', href: '/aviator' },
+                { name: 'Cricket Betting Nepal', href: '/cricket' },
+                { name: 'IPL Betting 2026', href: '/ipl-betting' },
+                { name: 'Live Casino Nepal', href: '/live-casino' },
+                { name: 'Teen Patti Online', href: '/teen-patti' },
+                { name: 'eSewa Betting', href: '/esewa-betting' },
+                { name: 'Khalti Betting', href: '/khalti-betting' },
+                { name: 'Fast Withdrawal', href: '/withdrawal' },
               ].map(link => (
                 <li key={link.name}>
-                  <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" className="text-sm text-gray-400 hover:text-neon transition-colors">
+                  <a href={link.href} className="text-sm text-gray-400 hover:text-neon transition-colors">
                     {link.name}
                   </a>
                 </li>

@@ -4,9 +4,9 @@ import { Home, Gamepad2, Gift, Wallet, MessageCircle } from 'lucide-react'
 import { WHATSAPP_URL } from '@/lib/constants'
 
 const navItems = [
-  { icon: Home, label: 'Home', href: '#' },
-  { icon: Gamepad2, label: 'Games', href: '#games' },
-  { icon: Gift, label: 'Bonus', href: '#bonus' },
+  { icon: Home, label: 'Home', href: '/' },
+  { icon: Gamepad2, label: 'Games', href: '/games' },
+  { icon: Gift, label: 'Bonus', href: '/bonus' },
   { icon: Wallet, label: 'Deposit', href: WHATSAPP_URL },
   { icon: MessageCircle, label: 'WhatsApp', href: WHATSAPP_URL },
 ]
