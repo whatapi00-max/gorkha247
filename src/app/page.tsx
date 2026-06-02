@@ -8,6 +8,7 @@ import BonusSection from '@/components/BonusSection'
 import TrustSection from '@/components/TrustSection'
 import SEOContent from '@/components/SEOContent'
 import SEOKeywords from '@/components/SEOKeywords'
+import InternalLinks from '@/components/InternalLinks'
 import Footer from '@/components/Footer'
 import MobileNav from '@/components/MobileNav'
 import WhatsAppFloat from '@/components/WhatsAppFloat'
@@ -27,6 +28,7 @@ export default function HomePage() {
         <GameGrid />
         <BonusSection />
         <TrustSection />
+        <InternalLinks />
         <SEOContent />
         <SEOKeywords />
       </main>
