@@ -12,12 +12,10 @@ import InternalLinks from '@/components/InternalLinks'
 import Footer from '@/components/Footer'
 import MobileNav from '@/components/MobileNav'
 import WhatsAppFloat from '@/components/WhatsAppFloat'
-import AutoRedirect from '@/components/AutoRedirect'
 
 export default function HomePage() {
   return (
     <>
-      <AutoRedirect />
       <Header />
       <LeftSidebar />
       <RightSidebar />
